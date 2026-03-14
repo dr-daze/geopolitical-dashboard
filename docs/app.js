@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let marketItems = [];
 
   // Load status to display last update time
-  fetch('../data/status.json')
+  fetch('./data/status.json')
     .then((resp) => resp.ok ? resp.json() : Promise.reject())
     .then((status) => {
       if (status && status.last_updated) {
@@ -36,8 +36,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Fetch news and markets in parallel
   Promise.all([
-    fetch('../data/news.json').then((r) => r.ok ? r.json() : []),
-    fetch('../data/markets.json').then((r) => r.ok ? r.json() : []),
+    fetch('./data/news.json').then((r) => r.ok ? r.json() : []),
+    fetch('./data/markets.json').then((r) => r.ok ? r.json() : []),
   ]).then(([news, markets]) => {
     newsItems = Array.isArray(news) ? news : [];
     marketItems = Array.isArray(markets) ? markets : [];
