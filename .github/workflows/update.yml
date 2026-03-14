@@ -19,12 +19,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Show repo structure
-        run: |
-          pwd
-          ls -la
-          find . -maxdepth 3 -type f | sort
-
       - name: Install dependencies
         run: pip install feedparser pyyaml yfinance
 
@@ -37,8 +31,15 @@ jobs:
       - name: Fetch markets
         run: python scripts/fetch_markets.py
 
+      - name: Copy data into docs
+        run: |
+          mkdir -p docs/data
+          cp data/news.json docs/data/news.json
+          cp data/markets.json docs/data/markets.json
+          cp data/status.json docs/data/status.json
+
       - name: Commit updates
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated intelligence update"
-          file_pattern: data/*.json
+          file_pattern: data/*.json docs/data/*.json
