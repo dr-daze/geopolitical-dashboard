@@ -10,11 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Show repo structure
+        run: |
+          pwd
+          ls -la
+          find . -maxdepth 3 -type f | sort
 
       - name: Install dependencies
         run: pip install feedparser pyyaml yfinance
@@ -29,7 +35,7 @@ jobs:
         run: python scripts/fetch_markets.py
 
       - name: Commit updates
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated intelligence update"
           file_pattern: data/*.json
