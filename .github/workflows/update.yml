@@ -1,0 +1,35 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser pyyaml yfinance
+
+      - name: Fetch sources
+        run: python scripts/fetch_sources.py
+
+      - name: Classify signals
+        run: python scripts/classify_signals.py
+
+      - name: Fetch markets
+        run: python scripts/fetch_markets.py
+
+      - name: Commit updates
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automated intelligence update"
+          file_pattern: data/*.json
