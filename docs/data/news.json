@@ -1,5 +1,67 @@
 [
   {
+    "timestamp": "2026-04-02T12:00:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Army’s enterprise contracting vehicles likely to speed procurement but not without risk",
+    "url": "https://breakingdefense.com/2026/04/armys-enterprise-contracting-vehicles-likely-to-speed-procurement-but-not-without-risk/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/armys-enterprise-contracting-vehicles-likely-to-speed-procurement-but-not-without-risk/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2023/05/230502_anduril_software_handout-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>An expert and former defense officials told Breaking Defense that the service’s push to award high ceiling, prolonged contracts could speed up acquisition processes but ultimately only time will determine their effectiveness.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T11:40:17+00:00",
+    "source": "Defense News",
+    "title": "Swedish arms maker to set up major ammunition plant in Estonia",
+    "url": "https://www.defensenews.com/global/europe/2026/04/02/swedish-arms-maker-to-set-up-major-ammunition-plant-in-estonia/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Estonian Defense Minister Hanno Pevkur said the company had been promised confidentiality until contracts are signed, local broadcaster ERR reported.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T08:00:37+00:00",
+    "source": "War on the Rocks",
+    "title": "A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies",
+    "url": "https://warontherocks.com/2026/04/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>On July 4, 2026, the United States turns 250. At Cogs of War, we plan to mark the occasion the way we know best: by examining how Americans have built, adapted, and fought with technology in war.From David Bushnell&#8217;s Turtle submarine to the Gatling gun, nuclear warhead, GPS, and AI, American defense innovation has always been more about people working at the edge of constraint to deliver advantage in war &#8212; improvising, scaling, and sometimes breaking institutions &#8212; than any singular invention. For more than two centuries, these efforts have shaped how the United States and the rest of the</p>\n<p>The post <a href=\"https://warontherocks.com/2026/04/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/\">A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T07:30:27+00:00",
+    "source": "War on the Rocks",
+    "title": "From Filament to Firepower: 3D Printing’s Impact on Warfare",
+    "url": "https://warontherocks.com/2026/04/from-filament-to-firepower-3d-printings-impact-on-warfare/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>While much ink has been spilled over how 3D printing has enabled intense drone-on-drone warfare in Ukraine, the U.S. defense and intelligence communities have overlooked a stealthier development: Additive manufacturing is revolutionizing how guns are produced, fielded, and sustained in armed conflicts, especially by non-state actors. What once required a web of smuggling networks, foreign sponsors, and captured stockpiles can now be made with digital files and off-the-shelf parts. Even ammunition production, once considered an insurmountable barrier, is increasingly possible. This revolution in how arms and ammunition are manufactured has yielded resilient and decentralized supply chains that can endure both</p>\n<p>The post <a href=\"https://warontherocks.com/2026/04/from-filament-to-firepower-3d-printings-impact-on-warfare/\">From Filament to Firepower: 3D Printing’s Impact on Warfare</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-02T07:15:21+00:00",
+    "source": "War on the Rocks",
+    "title": "The Iran War and the Energy Lesson We Failed to Learn",
+    "url": "https://warontherocks.com/2026/04/the-iran-war-and-the-energy-lesson-we-failed-to-learn/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>How many energy crises will it take before we stop betting our economies on a fragile oil market?The U.S. and Israeli war with Iran quickly morphed from a regional conflict into a global energy shock. Oil and gas markets have been volatile since the start of the war, with Brent crude oil prices rising 59 percent since Iran&#8217;s effective closure of the Strait of Hormuz, one of the world&#8217;s most important energy chokepoints. In the first half of 2025, about one-fifth of the world&#8217;s oil and liquified natural gas passed through the strait. Now, five weeks into the conflict, attacks</p>\n<p>The post <a href=\"https://warontherocks.com/2026/04/the-iran-war-and-the-energy-lesson-we-failed-to-learn/\">The Iran War and the Energy Lesson We Failed to Learn</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield",
+      "energy_shock",
+      "market_shock"
+    ]
+  },
+  {
     "timestamp": "2026-04-01T21:36:05+00:00",
     "source": "Long War Journal",
     "title": "Iran and proxies fire fewer total projectiles, increase accuracy in attacks on region (March 28–April 1 updates)",
