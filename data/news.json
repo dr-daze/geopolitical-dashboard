@@ -1,5 +1,151 @@
 [
   {
+    "timestamp": "2026-04-09T23:00:00+00:00",
+    "source": "Defense News",
+    "title": "Trump weighs pulling some US troops from Europe amid NATO strains, official says",
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/09/trump-weighs-pulling-some-us-troops-from-europe-amid-nato-strains-official-says/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "U.S. President Donald Trump has discussed with advisers the option of removing some U.S. troops from Europe, a senior White House official told Reuters.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T21:15:47+00:00",
+    "source": "Defense News",
+    "title": "Trump again chides NATO for failing to back US operations in Iran",
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/09/trump-again-chides-nato-for-failing-to-back-us-operations-in-iran/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The president's remarks came just a day after a tense private meeting with the alliance's Secretary General Mark Rutte at the White House.",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T20:43:25+00:00",
+    "source": "War on the Rocks",
+    "title": "Update from the Battlefield: Drones, Distance, and Diminishing Returns for Russia",
+    "url": "https://warontherocks.com/2026/04/update-from-the-battlefield-drones-distance-and-diminishing-returns-for-russia/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Michael Kofman joins Ryan to unpack the current state of the Russo-Ukrainian War after his recent trip to the front. They examine how drone warfare has transformed the battlefield into a dispersed contest over a vast kill zone, why Russian infiltration tactics have failed to produce meaningful gains, and how Ukraine is working to close gaps in its strike capabilities. They also explore the growing pressure from Russian long-range strikes and how the war in Iran is beginning to shape the conflict.Image: ArmyInform via Wikimedia Commons</p>\n<p>The post <a href=\"https://warontherocks.com/2026/04/update-from-the-battlefield-drones-distance-and-diminishing-returns-for-russia/\">Update from the Battlefield: Drones, Distance, and Diminishing Returns for Russia</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T19:38:25+00:00",
+    "source": "Breaking Defense",
+    "title": "Space Force slates $1.8B for commercial sats to replace GSSAP neighborhood watch birds",
+    "url": "https://breakingdefense.com/2026/04/space-force-slates-1-8b-for-commercial-sats-to-replace-gssap-neighborhood-watch-birds/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/space-force-slates-1-8b-for-commercial-sats-to-replace-gssap-neighborhood-watch-birds/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2015/09/GSAP-satellite-e1635185238433-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The service has tapped 14 firms to compete for rolling task orders through April 2036 under the Andromeda program, formerly known as RG-XX.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T18:40:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Israel to ramp up production of Arrow interceptors",
+    "url": "https://breakingdefense.com/2026/04/israel-to-ramp-up-production-of-arrow-interceptors/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/israel-to-ramp-up-production-of-arrow-interceptors/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/250717_IAI_arrow_3_night_HANDOUT-e1752783172523-1024x577.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The announcement came before the US and Iran came to what has turned out to be a shaky ceasefire, one that didn&#8217;t restrain Israel from striking targets in Lebanon.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T18:07:57+00:00",
+    "source": "Breaking Defense",
+    "title": "UK accuses Russia of covert submarine operation threatening undersea cables",
+    "url": "https://breakingdefense.com/2026/04/uk-accuses-russia-of-covert-submarine-operation-threatening-undersea-cables/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/uk-accuses-russia-of-covert-submarine-operation-threatening-undersea-cables/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"317\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260409_uk_sat_imagery_russia_UKMOD-e1775758248146.png\" style=\"height: auto!important;\" width=\"563\" /></a></p><p>Together with allies, the UK tracked “every mile” of the deployment involving an Akula-class and a pair of Main Directorate for Deep Sea Research (GUGI) surveillance submarines, according to British defense secretary John Healey.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T18:01:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Navy selects Leidos, Defense Unicorns to test software prototypes for ships",
+    "url": "https://breakingdefense.com/2026/04/navy-selects-leidos-defense-unicorns-to-test-software-prototypes-for-ships/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/navy-selects-leidos-defense-unicorns-to-test-software-prototypes-for-ships/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2021/08/4665268-scaled-e1775660681132-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Leidos and Defense Unicorns will test prototypes in a lab-based environment under the other transaction agreement.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T17:14:00+00:00",
+    "source": "Breaking Defense",
+    "title": "China’s dual-use ambitions could severely threaten America’s force posture",
+    "url": "https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/260331_solomon_islands_port_GettyImages-2234743310-e1774971597252.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Pentagon already closely tracks dual-use technology, but The Heritage Foundation&#8217;s Brent Sadler and Allen Zhang write in this op-ed that it&#8217;s past time to keep an eye on potential dual-use maritime infrastructure.</p>",
+    "tags": [
+      "energy_shock",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T16:08:32+00:00",
+    "source": "Breaking Defense",
+    "title": "How the Iran conflict might change defense investments in the Gulf",
+    "url": "https://breakingdefense.com/2026/04/iran-war-defense-investments-middle-east-defense/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/iran-war-defense-investments-middle-east-defense/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Ukraine-Drone-play-button-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Middle East Bureau Chief Agnes Helou talks Iran and interviews the CEO of SCOPA in this edition of the Middle East Defense Digest. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T14:55:55+00:00",
+    "source": "Defense News",
+    "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
+    "url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Norway’s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T13:50:35+00:00",
+    "source": "Breaking Defense",
+    "title": "How the Army could spend nearly $19 billion in RDT&E funding",
+    "url": "https://breakingdefense.com/2026/04/how-the-army-could-spend-nearly-19-billion-in-rdte-funding/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/how-the-army-could-spend-nearly-19-billion-in-rdte-funding/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/04/Bells-FLRAA-program-showcases-how-MOSA-and-the-digital-backbone-can-enable-rapid-upgrades-and-integration-of-new-technologies.-Bell-photo-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The programs taking up the majority of the Army’s RDT&#038;E funding include FLRAA, THAAD, hypersonic weapons, counter drone tech and M-SHORAD.  </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-09T13:38:25+00:00",
+    "source": "Defense News",
+    "title": "Pentagon’s ouster of Anthropic opens doors for small AI rivals",
+    "url": "https://www.defensenews.com/pentagon/2026/04/09/pentagons-ouster-of-anthropic-opens-doors-for-small-ai-rivals/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Small defense industry artificial intelligence startups are suddenly fielding calls from generals, combatant commanders and deep-pocketed investors.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-04-09T12:26:55+00:00",
     "source": "Defense News",
     "title": "Researchers propose ‘rewilding’ Europe’s borderlands to repel enemies",
