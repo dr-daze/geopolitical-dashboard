@@ -1,5 +1,81 @@
 [
   {
+    "timestamp": "2026-04-17T10:53:51+00:00",
+    "source": "Defense News",
+    "title": "Dutch broadcaster tracks carrier-group frigate with Bluetooth gadget",
+    "url": "https://www.defensenews.com/global/europe/2026/04/17/dutch-broadcaster-tracks-carrier-group-frigate-with-bluetooth-gadget/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The MoD has made adjustments in response to the reported incident, including no longer allowing greeting cards with batteries to be sent.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T09:32:32+00:00",
+    "source": "Defense News",
+    "title": "Australia refines its defense strategy and investment plan",
+    "url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/australia-refines-its-defense-strategy-and-investment-plan/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The government has laid out an aim for defense spending to reach 3% of GDP by 2033-34.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T08:19:24+00:00",
+    "source": "Defense News",
+    "title": "France nears rocket artillery decision, plans ballistic missile by 2035",
+    "url": "https://www.defensenews.com/global/europe/2026/04/17/france-nears-rocket-artillery-decision-plans-ballistic-missile-by-2035/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "French defense leaders are treating the acquisition of a new rocket artillery weapon as priority for the land forces.",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T07:30:01+00:00",
+    "source": "War on the Rocks",
+    "title": "How to Counter the Houthis Without Strengthening Them",
+    "url": "https://warontherocks.com/how-to-counter-the-houthis-without-strengthening-them/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>If the United States is drawn into another round of military action in Yemen, it ought to avoid the mistakes of the last decade. From about 2015 to last year, successive administrations backed Saudi&#8209; and Emirati&#8209;led military campaigns, arms sales, and naval blockades that devastated civilians, deepened Yemen&#8217;s fragmentation, and perversely strengthened Houthi power and legitimacy instead of containing it.Instead, Washington should treat force as one tool within a broader political and economic strategy. Officially known as Ansar Allah (&#8220;Partisans of God&#8221;) and referred to here as the Houthis for ease of reference, the group is a Zaydi revivalist political-military</p>\n<p>The post <a href=\"https://warontherocks.com/how-to-counter-the-houthis-without-strengthening-them/\">How to Counter the Houthis Without Strengthening Them</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield",
+      "escalation",
+      "proxy"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T07:15:59+00:00",
+    "source": "War on the Rocks",
+    "title": "Winning in the Donbas: What Russia’s 2014–2015 Campaign Reveals About Modern War",
+    "url": "https://warontherocks.com/winning-in-the-donbas-what-russias-2014-2015-campaign-reveals-about-modern-war/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>It is clear that the U.S.-Israeli decapitation, airpower-centric, and precision strike campaign are again not enough to bring about the two countries&#8217; strategic goals. The United States still finds itself potentially having to commit land forces into its war with Iran, yet many unknowns lurk, including a fragile ceasefire and a U.S. naval blockade of the Strait of Hormuz. Setting aside the question of whether U.S. land forces will be committed to the war, the question that remains unknown is how, and to what degree, they would be employed.The continued relevance of land forces in the 21st century is a</p>\n<p>The post <a href=\"https://warontherocks.com/winning-in-the-donbas-what-russias-2014-2015-campaign-reveals-about-modern-war/\">Winning in the Donbas: What Russia’s 2014–2015 Campaign Reveals About Modern War</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-17T01:46:37+00:00",
+    "source": "Defense News",
+    "title": "‘Actively shrinking’: Guard generals push Congress for 100 new fighters a year",
+    "url": "https://www.defensenews.com/news/your-military/2026/04/17/actively-shrinking-guard-generals-push-congress-for-100-new-fighters-a-year/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "A total of 22 generals signed a letter to Congress this month calling for multiyear funding to buy between 72 and 100 new fighters per year.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-04-16T21:05:06+00:00",
     "source": "Long War Journal",
     "title": "Hamas rejects disarmament clause of Gaza peace plan, IDF reports 14 ceasefire violations April 8–16",
@@ -216,6 +292,18 @@
     ]
   },
   {
+    "timestamp": "2026-04-16T08:00:22+00:00",
+    "source": "War on the Rocks",
+    "title": "Anthropic’s Nuclear Bomb",
+    "url": "https://warontherocks.com/cogs-of-war/anthropics-nuclear-bomb/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>A few hours before Anthropic announced the launch of its newest model, Claude Mythos Preview, on April 7, I had just completed a six-month analysis of AI-enabled cyberattacks. My research traced Chinese state-sponsored cyber campaigns against U.S. critical infrastructure and found that the barrier between nation-state-level hacking and everyone else was eroding far too fast.By the time I closed my laptop that afternoon, Mythos had shattered that barrier. This new model could theoretically autonomously exploit previously unknown vulnerabilities in virtually every major operating system and web browser on Earth, without human supervision. My threat model, seemingly alarmist at breakfast, was</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/anthropics-nuclear-bomb/\">Anthropic&#8217;s Nuclear Bomb</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-04-16T07:30:46+00:00",
     "source": "War on the Rocks",
     "title": "A Fragile Ceasefire with Iran and the Price of Ending the War",
@@ -235,6 +323,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>Commercial technologies are enabling the U.S. military and militaries around the world to operate with greater efficiency, speed, precision, and lethality. The benefits of commercial capabilities can be particularly impactful given the defense industrial base&#8217;s&#160;struggles to produce at the speed and scale needed to outmatch China, Russia, and other aligned adversaries. It is largely for these reasons that President Donald Trump mandated the Department of Defense to preference commercial solutions. Congress also reinforced efforts to prioritize commercially available solutions in Section 1214 of the 2026 National Defense Authorization Act.Commercial technologies are also a driving factor behind increasingly rapid evolutions in</p>\n<p>The post <a href=\"https://warontherocks.com/rethinking-security-cooperation-in-the-age-of-commercial-tech/\">Rethinking Security Cooperation in the Age of Commercial Tech</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-16T07:30:07+00:00",
+    "source": "War on the Rocks",
+    "title": "Rethinking Security Cooperation in the Age of Commercial Tech",
+    "url": "https://warontherocks.com/cogs-of-war/rethinking-security-cooperation-in-the-age-of-commercial-tech/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Commercial technologies are enabling the U.S. military and militaries around the world to operate with greater efficiency, speed, precision, and lethality. The benefits of commercial capabilities can be particularly impactful given the defense industrial base&#8217;s&#160;struggles to produce at the speed and scale needed to outmatch China, Russia, and other aligned adversaries. It is largely for these reasons that President Donald Trump mandated the Department of Defense to preference commercial solutions. Congress also reinforced efforts to prioritize commercially available solutions in Section 1214 of the 2026 National Defense Authorization Act.Commercial technologies are also a driving factor behind increasingly rapid evolutions in</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/rethinking-security-cooperation-in-the-age-of-commercial-tech/\">Rethinking Security Cooperation in the Age of Commercial Tech</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
@@ -567,6 +667,18 @@
     ]
   },
   {
+    "timestamp": "2026-04-15T08:00:58+00:00",
+    "source": "War on the Rocks",
+    "title": "Why Booz Allen is Partnering With One of the World’s Most Important VC Firms",
+    "url": "https://warontherocks.com/cogs-of-war/why-booz-allen-is-partnering-with-one-of-the-worlds-most-important-vc-firms/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>What happens when one of the defense industry&#8217;s leading technology integrators partners with one of Silicon Valley&#8217;s most influential venture firms? Bryce Pippert of Booz Allen and Matt Cronin of Andreessen Horowitz join Ryan to unpack their new partnership and discuss how the United States is trying to tap into the tech ecosystem. The conversation gets into venture capital&#8217;s growing role in national security, how this partnership is supposed to work in practice, and why getting real technology into government hands is still harder than it should be.Image: Midjourney</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/why-booz-allen-is-partnering-with-one-of-the-worlds-most-important-vc-firms/\">Why Booz Allen is Partnering With One of the World&#8217;s Most Important VC Firms</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-04-15T07:30:15+00:00",
     "source": "War on the Rocks",
     "title": "Silent Killers, Not Signals: Why States Use Poison in Assassinations",
@@ -808,6 +920,18 @@
     ]
   },
   {
+    "timestamp": "2026-04-14T08:00:09+00:00",
+    "source": "War on the Rocks",
+    "title": "The Bromine Chokepoint: How Strife in the Middle East Could Halt Production of the World’s Memory Chips",
+    "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>The U.S.-Israeli war with Iran, now in an unstable ceasefire, has exposed a structural failure in the global semiconductor memory supply chain, and it is not the one analysts seem to be tracking. The story receiving attention is helium: Qatar&#8217;s Ras Laffan facility went offline, a 45-day inventory clock started running, and spot prices doubled within days. The story receiving almost no attention is bromine, and it is potentially the more dangerous one. Bromine is the raw material from which specialized chemical suppliers produce semiconductor-grade hydrogen bromide gas, the etch chemical that South Korean fabs use to carve the transistor</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/\">The Bromine Chokepoint: How Strife in the Middle East Could Halt Production of the World’s Memory Chips</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-04-14T07:30:36+00:00",
     "source": "War on the Rocks",
     "title": "Tactical Success, Strategic Failure? Washington Walks the Path to Defeat in Iran",
@@ -995,6 +1119,19 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>In May 1953, in the desert west of Idaho Falls, a crew powered up the world&#8217;s first naval nuclear propulsion system. What made it possible was daringly aggressive innovation: Adm. Hyman Rickover insisted that the Submarine Thermal Reactor Mark I be built to exactly the specifications that would later be required inside a submarine. This meant hundreds of pounds of simulated sea pressure per square inch, shock resistance tested to the standards of a depth-charge attack, and air conditioning sized at three times the requirement. Rickover&#8217;s own engineers fought him, arguing that the basic challenge of building a nuclear reactor</p>\n<p>The post <a href=\"https://warontherocks.com/can-a-new-bridge-finally-save-the-pentagons-best-ideas/\">Can a New Bridge Finally Save the Pentagon’s Best Ideas?</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-04-13T08:00:43+00:00",
+    "source": "War on the Rocks",
+    "title": "Can a New Bridge Finally Save the Pentagon’s Best Ideas?",
+    "url": "https://warontherocks.com/cogs-of-war/can-a-new-bridge-finally-save-the-pentagons-best-ideas/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In May 1953, in the desert west of Idaho Falls, a crew powered up the world&#8217;s first naval nuclear propulsion system. What made it possible was daringly aggressive innovation: Adm. Hyman Rickover insisted that the Submarine Thermal Reactor Mark I be built to exactly the specifications that would later be required inside a submarine. This meant hundreds of pounds of simulated sea pressure per square inch, shock resistance tested to the standards of a depth-charge attack, and air conditioning sized at three times the requirement. Rickover&#8217;s own engineers fought him, arguing that the basic challenge of building a nuclear reactor</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/can-a-new-bridge-finally-save-the-pentagons-best-ideas/\">Can a New Bridge Finally Save the Pentagon’s Best Ideas?</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield",
       "escalation"
@@ -1321,6 +1458,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>The tech soldiers carry will shape their performance in combat, missions, safety, and health. If you care about any of those things, you will love this episode. The next generation of American soldiers will operate with systems that blur the line between human and machine, but that future is still being worked out in real time. In this episode, three former servicemembers turned industry leaders look ahead to how frontline capabilities may evolve over the next decade and what will constrain them.Image: Sgt. Thiem Huynh via DVIDS.</p>\n<p>The post <a href=\"https://warontherocks.com/the-future-soldier-loadout-smarter-gear-or-dead-weight/\">The Future Soldier Loadout: Smarter Gear or Dead Weight?</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:00:45+00:00",
+    "source": "War on the Rocks",
+    "title": "The Future Soldier Loadout: Smarter Gear or Dead Weight?",
+    "url": "https://warontherocks.com/cogs-of-war/the-future-soldier-loadout-smarter-gear-or-dead-weight/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>The tech soldiers carry will shape their performance in combat, missions, safety, and health. If you care about any of those things, you will love this episode. The next generation of American soldiers will operate with systems that blur the line between human and machine, but that future is still being worked out in real time. In this episode, three former servicemembers turned industry leaders look ahead to how frontline capabilities may evolve over the next decade and what will constrain them.Image: Sgt. Thiem Huynh via DVIDS.</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-future-soldier-loadout-smarter-gear-or-dead-weight/\">The Future Soldier Loadout: Smarter Gear or Dead Weight?</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
@@ -1851,6 +2000,18 @@
     ]
   },
   {
+    "timestamp": "2026-04-08T08:00:44+00:00",
+    "source": "War on the Rocks",
+    "title": "How This Precision Weapon Reengineered Modern War",
+    "url": "https://warontherocks.com/cogs-of-war/how-this-precision-weapon-reengineered-modern-war/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>This exclusive&#160;Cogs of War&#160;interview is with Jeffrey E. Stern, an award-winning journalist and author of the newly released The Warhead: The Quest to Build the Perfect Weapon in the Age of Modern Warfare, which details the development of Paveway, the precision-guided bomb. We asked him to share his thoughts on the bomb&#8217;s history and its role in air campaigns, and the relationship between government, science, and industry. You spent years researching and writing this book about Paveway, a relatively underdiscussed weapon. Why tell this story? I wanted to tell this story in part because Paveway is so underdiscussed. The big</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/how-this-precision-weapon-reengineered-modern-war/\">How This Precision Weapon Reengineered Modern War</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-04-08T07:30:34+00:00",
     "source": "War on the Rocks",
     "title": "The Campaign Ends at the Breach: Lessons from Ukraine on Why Armies Fail",
@@ -2115,6 +2276,19 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize their machines and to review customers&#8217; intended applications. This Chinese startup based in Hangzhou had earned its place in that group. Founded in 2016 by a 26-year-old engineer named Wang Xingxing, who quit his job at the drone maker DJI during his probationary period, Unitree set out to build affordable quadruped robots. It worked. By 2023, the company held over 60 percent of the global quadruped robot market by unit sales. Its investors included Sequoia China, Meituan,</p>\n<p>The post <a href=\"https://warontherocks.com/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers/\">The Hidden System Turning Chinese Tech Companies into Military Suppliers</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield",
+      "market_shock"
+    ]
+  },
+  {
+    "timestamp": "2026-04-07T08:00:02+00:00",
+    "source": "War on the Rocks",
+    "title": "The Hidden System Turning Chinese Tech Companies into Military Suppliers",
+    "url": "https://warontherocks.com/cogs-of-war/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize their machines and to review customers&#8217; intended applications. This Chinese startup based in Hangzhou had earned its place in that group. Founded in 2016 by a 26-year-old engineer named Wang Xingxing, who quit his job at the drone maker DJI during his probationary period, Unitree set out to build affordable quadruped robots. It worked. By 2023, the company held over 60 percent of the global quadruped robot market by unit sales. Its investors included Sequoia China, Meituan,</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers/\">The Hidden System Turning Chinese Tech Companies into Military Suppliers</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield",
       "market_shock"
@@ -2867,6 +3041,18 @@
     ]
   },
   {
+    "timestamp": "2026-04-02T08:00:37+00:00",
+    "source": "War on the Rocks",
+    "title": "A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies",
+    "url": "https://warontherocks.com/cogs-of-war/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>On July 4, 2026, the United States turns 250. At Cogs of War, we plan to mark the occasion the way we know best: by examining how Americans have built, adapted, and fought with technology in war.From David Bushnell&#8217;s Turtle submarine to the Gatling gun, nuclear warhead, GPS, and AI, American defense innovation has always been more about people working at the edge of constraint to deliver advantage in war &#8212; improvising, scaling, and sometimes breaking institutions &#8212; than any singular invention. For more than two centuries, these efforts have shaped how the United States and the rest of the</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/a-250-year-arsenal-of-innovation-a-call-for-articles-on-american-defense-technologies/\">A 250-Year Arsenal of Innovation: A Call for Articles on American Defense Technologies</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-04-02T07:30:27+00:00",
     "source": "War on the Rocks",
     "title": "From Filament to Firepower: 3D Printing’s Impact on Warfare",
@@ -3209,6 +3395,18 @@
     ]
   },
   {
+    "timestamp": "2026-04-01T08:00:43+00:00",
+    "source": "War on the Rocks",
+    "title": "China’s AI Is Spreading Fast. Here’s How to Stop the Security Risks",
+    "url": "https://warontherocks.com/cogs-of-war/chinas-ai-is-spreading-fast-heres-how-to-stop-the-security-risks/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In late 2024, Chinese models accounted for one percent of global AI workloads. By the end of 2025, that figure had surged to 30 percent. Alibaba&#8217;s Qwen family now boasts over 700 million downloads, making it the world&#8217;s largest provider of &#8220;open-source&#8221; AI systems that are publicly released and capable of being downloaded and run locally. A constellation of Chinese AI labs &#8212; DeepSeek, Moonshot, and MiniMax chief among them &#8212; are increasingly popular fixtures of a global, open-source marketplace, which is starting to power everything from Indian academic research to America&#8217;s most elite technology startups.Though they are open-weight and</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/chinas-ai-is-spreading-fast-heres-how-to-stop-the-security-risks/\">China’s AI Is Spreading Fast. Here’s How to Stop the Security Risks</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-04-01T07:30:55+00:00",
     "source": "War on the Rocks",
     "title": "The Most Important Deterrent That NATO Needs Is Creativity",
@@ -3423,6 +3621,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>In the 1964 black comedy Dr. Strangelove, an emergency war plan called &#8220;Plan R&#8221; allows an unhinged U.S. Air Force commander, Jack Ripper, to launch a nuclear strike without presidential authorization. Once the president, the joint chiefs, and the Soviet ambassador convene in the war room, the bombers are already airborne. Only Ripper knows the three-letter prefix needed to recall them, until his aide, Lionel Mandrake, reconstructs it from Ripper&#8217;s notes. Although nearly all planes are turned back, one damaged B-52 cannot receive the recall message and successfully drops its bomb, triggering the Soviets&#8217; secret doomsday machine and bringing about</p>\n<p>The post <a href=\"https://warontherocks.com/the-u-s-military-risks-letting-contractors-define-how-it-sees-the-battlefield/\">The U.S. Military Risks Letting Contractors Define How It Sees the Battlefield</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-03-31T08:00:10+00:00",
+    "source": "War on the Rocks",
+    "title": "The U.S. Military Risks Letting Contractors Define How It Sees the Battlefield",
+    "url": "https://warontherocks.com/cogs-of-war/the-u-s-military-risks-letting-contractors-define-how-it-sees-the-battlefield/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In the 1964 black comedy Dr. Strangelove, an emergency war plan called &#8220;Plan R&#8221; allows an unhinged U.S. Air Force commander, Jack Ripper, to launch a nuclear strike without presidential authorization. Once the president, the joint chiefs, and the Soviet ambassador convene in the war room, the bombers are already airborne. Only Ripper knows the three-letter prefix needed to recall them, until his aide, Lionel Mandrake, reconstructs it from Ripper&#8217;s notes. Although nearly all planes are turned back, one damaged B-52 cannot receive the recall message and successfully drops its bomb, triggering the Soviets&#8217; secret doomsday machine and bringing about</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-u-s-military-risks-letting-contractors-define-how-it-sees-the-battlefield/\">The U.S. Military Risks Letting Contractors Define How It Sees the Battlefield</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
@@ -3715,6 +3925,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>Over the past decade, the Department of Defense has tested internal software development through efforts like the Air Force&#8217;s Kessel Run, the Army Software Factory, and the Marine Corps Software Factory. Those efforts showed that military personnel can build useful software when given the right tools and infrastructure.In its push to make better use of data, the Army fielded powerful digital platforms as a service across the force, such as Palantir&#8217;s Army Vantage and the Department of Defense&#8217;s GenAI.mil. These programs were meant to improve analysis and decision-making. But they also did something else: They gave soldiers built-in tools to</p>\n<p>The post <a href=\"https://warontherocks.com/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/\">Every Soldier a Software Builder: Governing the Army’s New Digital Workforce</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-03-30T08:00:57+00:00",
+    "source": "War on the Rocks",
+    "title": "Every Soldier a Software Builder: Governing the Army’s New Digital Workforce",
+    "url": "https://warontherocks.com/cogs-of-war/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Over the past decade, the Department of Defense has tested internal software development through efforts like the Air Force&#8217;s Kessel Run, the Army Software Factory, and the Marine Corps Software Factory. Those efforts showed that military personnel can build useful software when given the right tools and infrastructure.In its push to make better use of data, the Army fielded powerful digital platforms as a service across the force, such as Palantir&#8217;s Army Vantage and the Department of Defense&#8217;s GenAI.mil. These programs were meant to improve analysis and decision-making. But they also did something else: They gave soldiers built-in tools to</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/every-soldier-a-software-builder-governing-the-armys-new-digital-workforce/\">Every Soldier a Software Builder: Governing the Army’s New Digital Workforce</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
@@ -4129,6 +4351,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>In 1918, the U.S. Supreme Court held that government contractors could be sued for patent infringement even if their products were manufactured specifically for the U.S. government. Franklin D. Roosevelt, then acting secretary of the Navy, wrote an urgent letter to Congress warning that contractors were hesitant to build equipment for the Navy that could expose them to expensive litigation. Congress responded swiftly, amending federal law to shield contractors from patent suits when they were manufacturing products for the government. That statutory immunity, now codified as 28 U.S.C. &#167; 1498, has protected defense manufacturers for over a century. But a</p>\n<p>The post <a href=\"https://warontherocks.com/the-pentagon-wants-dual-use-innovation-patent-law-might-punish-it/\">The Pentagon Wants Dual-Use Innovation. Patent Law Might Punish It.</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-03-27T08:00:22+00:00",
+    "source": "War on the Rocks",
+    "title": "The Pentagon Wants Dual-Use Innovation. Patent Law Might Punish It.",
+    "url": "https://warontherocks.com/cogs-of-war/the-pentagon-wants-dual-use-innovation-patent-law-might-punish-it/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In 1918, the U.S. Supreme Court held that government contractors could be sued for patent infringement even if their products were manufactured specifically for the U.S. government. Franklin D. Roosevelt, then acting secretary of the Navy, wrote an urgent letter to Congress warning that contractors were hesitant to build equipment for the Navy that could expose them to expensive litigation. Congress responded swiftly, amending federal law to shield contractors from patent suits when they were manufacturing products for the government. That statutory immunity, now codified as 28 U.S.C. &#167; 1498, has protected defense manufacturers for over a century. But a</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-pentagon-wants-dual-use-innovation-patent-law-might-punish-it/\">The Pentagon Wants Dual-Use Innovation. Patent Law Might Punish It.</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
@@ -4736,6 +4970,18 @@
     ]
   },
   {
+    "timestamp": "2026-03-25T08:00:52+00:00",
+    "source": "War on the Rocks",
+    "title": "Your Defense Code Is Already AI-Generated. Now What?",
+    "url": "https://warontherocks.com/cogs-of-war/your-defense-code-is-already-ai-generated-now-what/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Somewhere in a defense ministry, someone is drafting a policy on whether to permit AI-assisted software development in defense procurement. The sentiment is understandable, but the policy is unfortunately unenforceable because the code is already there.In April 2025, Microsoft Chief Executive Officer Satya Nadella told an audience that 20 to 30 percent of code in some Microsoft repositories is now AI-generated. The figure cannot be independently verified &#8212; as multiple analysts have observed, there is no reliable method to measure AI-generated code in a repository after the fact. If Microsoft cannot trace it in their own repos, national defense organizations</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/your-defense-code-is-already-ai-generated-now-what/\">Your Defense Code Is Already AI-Generated. Now What?</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-03-25T07:30:10+00:00",
     "source": "War on the Rocks",
     "title": "Five Wargames Every Force Design Process Needs",
@@ -5143,6 +5389,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>This exclusive Cogs of War interview is with Eric Chewning, the executive vice president of maritime systems and corporate strategy at HII. As HII is America&#8217;s largest and one of its oldest military shipbuilders, we asked him to share his thoughts on maritime startups, reindustrialization policy, and more.Shipbuilding has been slow to adopt AI and other automated tools in comparison to other manufacturing industries. What cultural shifts inside a century-old yard are the hardest to drive when adopting new design/manufacturing tools?While HII has been using advanced automation to accelerate production in our shipyards for years, shipbuilding use cases have been</p>\n<p>The post <a href=\"https://warontherocks.com/the-next-transformation-of-u-s-shipbuilding/\">The Next Transformation of U.S. Shipbuilding</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-03-24T08:00:38+00:00",
+    "source": "War on the Rocks",
+    "title": "The Next Transformation of U.S. Shipbuilding",
+    "url": "https://warontherocks.com/cogs-of-war/the-next-transformation-of-u-s-shipbuilding/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>This exclusive Cogs of War interview is with Eric Chewning, the executive vice president of maritime systems and corporate strategy at HII. As HII is America&#8217;s largest and one of its oldest military shipbuilders, we asked him to share his thoughts on maritime startups, reindustrialization policy, and more.Shipbuilding has been slow to adopt AI and other automated tools in comparison to other manufacturing industries. What cultural shifts inside a century-old yard are the hardest to drive when adopting new design/manufacturing tools?While HII has been using advanced automation to accelerate production in our shipyards for years, shipbuilding use cases have been</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-next-transformation-of-u-s-shipbuilding/\">The Next Transformation of U.S. Shipbuilding</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
@@ -6049,6 +6307,18 @@
     ]
   },
   {
+    "timestamp": "2026-03-19T08:00:08+00:00",
+    "source": "War on the Rocks",
+    "title": "Countering Drones and the Pace of Modern War",
+    "url": "https://warontherocks.com/cogs-of-war/countering-drones-and-the-pace-of-modern-war/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>This episode is about far more than countering drones. It is about how America prepares for and fights its wars. With three leaders from three companies at the forefront of counter-drone solutions (AeroVironment, Epirus, and Hidden Level), the conversation explores how America and its enemies are adapting, how the U.S. military is and isn&#8217;t keeping pace, the problems with how America buys things, and more. This episode also features a rant from Ryan about companies that exaggerate the value they are providing to Ukraine. The idea for this episode precedes the latest war with Iran, but the fight in the</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/countering-drones-and-the-pace-of-modern-war/\">Countering Drones and the Pace of Modern War</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-03-19T07:30:00+00:00",
     "source": "War on the Rocks",
     "title": "The Inevitability of Chinese Military Purges",
@@ -6359,6 +6629,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>In recent years, as AI has begun to enter military planning and operational design, a persistent unease has surfaced among practitioners. Even with improved tools, increased tempo, and unprecedented access to data, plans continue to falter on integration, coherence, and a shared sense of direction. Marco Lyons&#8217; recent War on the Rocks article on the perceived decline of operational art gives voice to this unease in a way that is both timely and important.We do not know enough about the specific wargame, its constraints, or its internal dynamics to adjudicate these conclusions directly. What Lyons&#8217; account nevertheless captures with clarity</p>\n<p>The post <a href=\"https://warontherocks.com/military-operational-thinking-in-an-age-of-artificial-intelligence/\">Military Operational Thinking in an Age of Artificial Intelligence</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-03-18T08:00:11+00:00",
+    "source": "War on the Rocks",
+    "title": "Military Operational Thinking in an Age of Artificial Intelligence",
+    "url": "https://warontherocks.com/cogs-of-war/military-operational-thinking-in-an-age-of-artificial-intelligence/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In recent years, as AI has begun to enter military planning and operational design, a persistent unease has surfaced among practitioners. Even with improved tools, increased tempo, and unprecedented access to data, plans continue to falter on integration, coherence, and a shared sense of direction. Marco Lyons&#8217; recent War on the Rocks article on the perceived decline of operational art gives voice to this unease in a way that is both timely and important.We do not know enough about the specific wargame, its constraints, or its internal dynamics to adjudicate these conclusions directly. What Lyons&#8217; account nevertheless captures with clarity</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/military-operational-thinking-in-an-age-of-artificial-intelligence/\">Military Operational Thinking in an Age of Artificial Intelligence</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
@@ -6920,6 +7202,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>At conferences, in pitch decks, and increasingly in public writing, &#8220;service&#8221; is increasingly being used to describe the work of startup founders, employees, and venture capital investors in defense technology. The claim, sometimes explicit, more often implied, is that building defense technology is itself a form of service comparable to uniformed military service.It is visible in corporate messaging that invites civilians to &#8220;serve&#8221; through product work, from Palantir&#8217;s &#8220;Why We Serve&#8221; to Anduril&#8217;s description of &#8220;national service as a form of innovation,&#8221; to public-private innovation narratives that describe entrepreneurship as a form of national service and &#8220;answering the call&#8221; advocacy</p>\n<p>The post <a href=\"https://warontherocks.com/the-danger-of-vibe-patriotism-in-defense-tech/\">The Danger of Vibe Patriotism in Defense Tech</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-03-16T08:00:58+00:00",
+    "source": "War on the Rocks",
+    "title": "The Danger of Vibe Patriotism in Defense Tech",
+    "url": "https://warontherocks.com/cogs-of-war/the-danger-of-vibe-patriotism-in-defense-tech/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>At conferences, in pitch decks, and increasingly in public writing, &#8220;service&#8221; is increasingly being used to describe the work of startup founders, employees, and venture capital investors in defense technology. The claim, sometimes explicit, more often implied, is that building defense technology is itself a form of service comparable to uniformed military service.It is visible in corporate messaging that invites civilians to &#8220;serve&#8221; through product work, from Palantir&#8217;s &#8220;Why We Serve&#8221; to Anduril&#8217;s description of &#8220;national service as a form of innovation,&#8221; to public-private innovation narratives that describe entrepreneurship as a form of national service and &#8220;answering the call&#8221; advocacy</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-danger-of-vibe-patriotism-in-defense-tech/\">The Danger of Vibe Patriotism in Defense Tech</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
@@ -7513,6 +7807,18 @@
     ]
   },
   {
+    "timestamp": "2026-03-12T08:00:59+00:00",
+    "source": "War on the Rocks",
+    "title": "Magazine Breadth — Not Just Depth — Is Key to Munitions Industrial Base Resilience",
+    "url": "https://warontherocks.com/cogs-of-war/magazine-breadth-not-just-depth-is-key-to-munitions-industrial-base-resilience/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Is America running out of missiles? The attacks on Iranian forces and leadership have had a devastating impact on the regime, but the repeated salvos of precision-guided munitions and interceptors have put a strain on U.S. and Israeli stores of some of these munitions. While the United States retains significant capacity, as Secretary of Defense Pete Hegseth has stated, the expenditures do create risk, particularly in other potential theaters of action such as East Asia. President Donald Trump acknowledged as much in his Friday statement after meeting with industry chief executive officers on the imperative to &#8220;quadruple&#8221; the production of</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/magazine-breadth-not-just-depth-is-key-to-munitions-industrial-base-resilience/\">Magazine Breadth — Not Just Depth — Is Key to Munitions Industrial Base Resilience</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-03-12T07:30:18+00:00",
     "source": "War on the Rocks",
     "title": "Testing Denial: The Philippine Alliance in America’s First Island Chain Strategy",
@@ -7752,6 +8058,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "<p>In early March 2026, U.S. Central Command confirmed the first U.S. fatalities of the Iran conflict. A drone strike at Port Shuaiba in Kuwait killed six American servicemembers.A counter-drone system can intercept &#8220;most&#8221; threats and still fail at the mission that matters: protecting people and critical nodes. Small drones can fly as low to the ground, present detection challenges, and punish any gap in hardening or point defense. And there is a big imbalance in target cost and cost to intercept, especially when the United States is using expensive Patriot interceptors to take down Iranian Shaheds: low-cost kamikaze drones.While advanced</p>\n<p>The post <a href=\"https://warontherocks.com/lessons-from-ukraine-for-defending-gulf-airspace-from-shaheds/\">Lessons from Ukraine for Defending Gulf Airspace from Shaheds</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-03-11T08:00:24+00:00",
+    "source": "War on the Rocks",
+    "title": "Lessons from Ukraine for Defending Gulf Airspace from Shaheds",
+    "url": "https://warontherocks.com/cogs-of-war/lessons-from-ukraine-for-defending-gulf-airspace-from-shaheds/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In early March 2026, U.S. Central Command confirmed the first U.S. fatalities of the Iran conflict. A drone strike at Port Shuaiba in Kuwait killed six American servicemembers.A counter-drone system can intercept &#8220;most&#8221; threats and still fail at the mission that matters: protecting people and critical nodes. Small drones can fly as low to the ground, present detection challenges, and punish any gap in hardening or point defense. And there is a big imbalance in target cost and cost to intercept, especially when the United States is using expensive Patriot interceptors to take down Iranian Shaheds: low-cost kamikaze drones.While advanced</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/lessons-from-ukraine-for-defending-gulf-airspace-from-shaheds/\">Lessons from Ukraine for Defending Gulf Airspace from Shaheds</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
