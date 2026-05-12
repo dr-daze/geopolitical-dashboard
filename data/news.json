@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-05-12T13:00:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Anduril wins Army contract for prototype C2 missile defense system",
+    "url": "https://breakingdefense.com/2026/05/anduril-wins-army-contract-for-prototype-c2-missile-defense-system/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/05/anduril-wins-army-contract-for-prototype-c2-missile-defense-system/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/03/240319_guam_thaad_5082446-e1710869689737-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The system will use Anduril’s Lattice software, where it will allow the Army to collect and combine information from separate, existing missile defense systems and transform that data into a comprehensive operating picture</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-05-12T12:14:19+00:00",
+    "source": "Breaking Defense",
+    "title": "CYBERCOM requests 2,660 percent increase in AI for cyber operations",
+    "url": "https://breakingdefense.com/2026/05/cybercom-requests-2660-percent-increase-in-ai-for-cyber-operations/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/05/cybercom-requests-2660-percent-increase-in-ai-for-cyber-operations/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2023/02/230210_DVIDS_cyber_dark_4259914-scaled-e1676042385196-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The $138 million dollar request aims to see AI contribute measurable improvements ISR, offensive cyber, defensive cyber and integrated foundational activities. </p>",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-05-12T11:07:26+00:00",
+    "source": "Defense News",
+    "title": "Turkey’s Aselsan eyes growth in networked, mass-producible weapons, CEO says",
+    "url": "https://www.defensenews.com/global/europe/2026/05/12/turkeys-aselsan-eyes-growth-in-networked-mass-producible-weapons-ceo-says/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "“Everything we have talked about today could realistically be in inventory by 2027,” CEO Ahmet Akyol said in an interview.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-05-12T07:30:20+00:00",
+    "source": "War on the Rocks",
+    "title": "The Other Border Problem: How Russia and China’s Lawfare Threaten the Arctic",
+    "url": "https://warontherocks.com/the-other-border-problem-how-russia-and-chinas-lawfare-threaten-the-arctic/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>What happens when the Arctic starts to look like the South China Sea?Historically, a neutral region where cooperation prevailed, the Arctic is quickly becoming a contested space. This is no more evident than in the increasing scope and volume of Russian and Chinese lawfare affecting the region. Through excessive maritime regulations, coordinated challenges to Western continental shelf claims, and the use of shadow fleets to avoid accountability, Russia and China are increasingly coordinating their efforts to exert influence and challenge Western claims to Arctic resources and freedom of navigation. As these tactics continue to converge, the United States and its</p>\n<p>The post <a href=\"https://warontherocks.com/the-other-border-problem-how-russia-and-chinas-lawfare-threaten-the-arctic/\">The Other Border Problem: How Russia and China’s Lawfare Threaten the Arctic</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-05-12T07:15:35+00:00",
+    "source": "War on the Rocks",
+    "title": "Closing the Gap? Italy Sets New Rules for Its First National Security Strategy Amidst Old Obstacles",
+    "url": "https://warontherocks.com/closing-the-gap-italys-first-national-security-strategy-faces-old-obstacles/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Italy may finally be about to publish its first-ever national security strategy, a striking development for the only G7 country that has never had one.For decades, a mix of government instability, competition between institutions, a relatively permissive international environment, and the perceived reliability of U.S. security guarantees in Europe and the Mediterranean reduced incentives to produce a strategy. Recently, however, domestic political consolidation and external pressures have appeared to align in a way not seen before. Until recently, limited news articles and confidential interviews with policymakers, diplomats, and military officials pointed to a forthcoming publication that could address what military</p>\n<p>The post <a href=\"https://warontherocks.com/closing-the-gap-italys-first-national-security-strategy-faces-old-obstacles/\">Closing the Gap? Italy Sets New Rules for Its First National Security Strategy Amidst Old Obstacles</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-05-12T03:18:39+00:00",
+    "source": "Defense News",
+    "title": "US Navy open to building ships overseas, new plan says",
+    "url": "https://www.defensenews.com/news/your-navy/2026/05/12/us-navy-open-to-building-ships-overseas-new-plan-says/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The new plan comes after President Donald Trump and previous Navy Secretary John Phelan reportedly disagreed over outsourcing construction on select ships.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-05-11T22:11:59+00:00",
     "source": "Defense News",
     "title": "US, partner nations sink two decommissioned ships during Exercise Balikatan",
