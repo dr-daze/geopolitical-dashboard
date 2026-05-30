@@ -1,5 +1,116 @@
 [
   {
+    "timestamp": "2026-05-29T23:44:34+00:00",
+    "source": "Long War Journal",
+    "title": "Israel reportedly targets Imam Hossein Division missile commander in Beirut strike",
+    "url": "https://www.longwarjournal.org/archives/2026/05/israel-reportedly-targets-imam-hossein-division-missile-commander-in-beirut-strike.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>On May 28, Israel conducted its first strike in weeks targeting Beirut. The Israelis have yet to confirm it, but reporting indicates that the intended target was Ali al Hussaini, a commander in the Islamic Revolutionary Guard Corps-Qods Forces’ Imam Hossein Division. This division, whose origins were in the Syrian Civil War, has been reinforcing Hezbollah throughout the conflict with Israel that began in October 2023.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/05/israel-reportedly-targets-imam-hossein-division-missile-commander-in-beirut-strike.php\">Israel reportedly targets Imam Hossein Division missile commander in Beirut strike</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "escalation",
+      "proxy"
+    ]
+  },
+  {
+    "timestamp": "2026-05-29T23:36:27+00:00",
+    "source": "Defense News",
+    "title": "How Russia is turning Ukraine’s drones against NATO",
+    "url": "https://www.defensenews.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "A Russian drone wounded two civilians in Romania on Friday, days after Lithuania detailed how Moscow is also steering Ukraine's drones onto allied soil.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-05-29T21:47:10+00:00",
+    "source": "Defense News",
+    "title": "Nearly 500,000 Russian soldiers killed in Ukraine, top UK intel chief says",
+    "url": "https://www.defensenews.com/global/europe/2026/05/29/nearly-500000-russian-soldiers-killed-in-ukraine-top-uk-intel-chief-says/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The figure hardens a growing consensus among Western officials: Russia is on its heels for the first time since the Kremlin launched its invasion in 2022.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-05-29T17:26:16+00:00",
+    "source": "Defense News",
+    "title": "US Navy to explore powering shore installations with aircraft carriers",
+    "url": "https://www.defensenews.com/news/your-military/2026/05/29/us-navy-to-explore-powering-shore-installations-with-aircraft-carriers/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Acting Navy Secretary Hung Cao revealed that Naval Station Norfolk will be “powered from an aircraft carrier\" sometime this summer.",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-05-29T16:54:30+00:00",
+    "source": "Breaking Defense",
+    "title": "SpaceX wins $4.16B Space Force contract to detect airborne moving targets",
+    "url": "https://breakingdefense.com/2026/05/spacex-wins-4-16b-space-force-contract-to-detect-airborne-moving-targets/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/05/spacex-wins-4-16b-space-force-contract-to-detect-airborne-moving-targets/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/03/E-7-static-scaled-e1742890605247-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>&#8220;While this OTA agreement establishes initial SB-AMTI capability, the Space Force anticipates issuing multiple awards in the coming year ,&#8221; the service said today.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-05-29T15:47:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Army sent jailbroken tech to Middle East as part of ongoing hackathon",
+    "url": "https://breakingdefense.com/2026/05/army-sent-jailbroken-tech-to-middle-east-as-part-of-ongoing-hackathon/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/05/army-sent-jailbroken-tech-to-middle-east-as-part-of-ongoing-hackathon/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/260319_ltamds_snow_8164008-e1773940312868-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The hackathon now allows the Army to take new systems and work them into command and control structures to sync up with radars and sensors, all of which have previously never communicated with each other, according to Army Secretary Dan Driscoll. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-05-29T15:19:56+00:00",
+    "source": "Defense News",
+    "title": "US arms sales pause would push Taiwan toward asymmetric-defense tech: Analysts",
+    "url": "https://www.defensenews.com/global/asia-pacific/2026/05/29/us-arms-sales-pause-would-push-taiwan-toward-asymmetric-defense-tech-analysts/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The idea of Trump using arms sales as a negotiating chip with China has sparked concerns that Washington might decline procurement deals with Taiwan.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-05-29T15:16:12+00:00",
+    "source": "Defense News",
+    "title": "How far is there to go until the US and Iran end the war?",
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/29/how-far-is-there-to-go-until-the-us-and-iran-end-the-war/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "A tentative deal has been reached to end the war and restart transit in the Strait of Hormuz, and then negotiations on more difficult issues would begin.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-05-29T15:02:15+00:00",
+    "source": "Defense News",
+    "title": "China is building launch pads near its nuclear missile silos",
+    "url": "https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "China’s nuclear missiles can reach any U.S. city. Now, satellite images show Beijing is building a sprawling web of military sites near its nuclear silos.",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
     "timestamp": "2026-05-29T14:19:05+00:00",
     "source": "Breaking Defense",
     "title": "SPACECOM exploring tech for future offensive cislunar ops: Chief Scientist",
