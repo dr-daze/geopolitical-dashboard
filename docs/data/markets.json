@@ -1,42 +1,42 @@
 [
   {
-    "timestamp": "2026-05-30T12:55:38.519002+00:00",
+    "timestamp": "2026-05-31T01:58:44.577023+00:00",
     "symbol": "BZ=F",
     "name": "Brent Crude",
     "price": 92.05000305175781
   },
   {
-    "timestamp": "2026-05-30T12:55:38.519002+00:00",
+    "timestamp": "2026-05-31T01:58:44.577023+00:00",
     "symbol": "CL=F",
     "name": "WTI Crude",
     "price": 87.36000061035156
   },
   {
-    "timestamp": "2026-05-30T12:55:38.519002+00:00",
+    "timestamp": "2026-05-31T01:58:44.577023+00:00",
     "symbol": "NG=F",
     "name": "Natural Gas",
     "price": 3.2899999618530273
   },
   {
-    "timestamp": "2026-05-30T12:55:38.519002+00:00",
+    "timestamp": "2026-05-31T01:58:44.577023+00:00",
     "symbol": "ITA",
     "name": "Defense ETF",
     "price": 235.44000244140625
   },
   {
-    "timestamp": "2026-05-30T12:55:38.519002+00:00",
+    "timestamp": "2026-05-31T01:58:44.577023+00:00",
     "symbol": "SEA",
     "name": "Shipping ETF",
     "price": 16.950000762939453
   },
   {
-    "timestamp": "2026-05-30T12:55:38.519002+00:00",
+    "timestamp": "2026-05-31T01:58:44.577023+00:00",
     "symbol": "GSG",
     "name": "Commodity Index",
     "price": 31.799999237060547
   },
   {
-    "timestamp": "2026-05-30T12:55:38.519002+00:00",
+    "timestamp": "2026-05-31T01:58:44.577023+00:00",
     "symbol": "^VIX",
     "name": "Volatility Index",
     "price": 15.319999694824219
