@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-07-29T12:54:25+00:00",
+    "source": "Defense News",
+    "title": "Ford, GM Defense, BC Customs to compete for US Army’s new infantry squad vehicle",
+    "url": "https://www.defensenews.com/news/your-military/2026/07/29/ford-gm-defense-bc-customs-to-compete-for-us-armys-new-infantry-squad-vehicle/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Ford, GM Defense and BC Customs will build competing prototypes of the U.S. Army's future infantry squad vehicle.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-07-29T12:00:00+00:00",
+    "source": "Defense News",
+    "title": "House-passed defense bill includes controversial US-Israel tech measure",
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The House-passed defense bill includes a measure to encourage co-development and co-production between the U.S. and Israeli defense industrial bases.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-07-29T12:00:00+00:00",
+    "source": "Breaking Defense",
+    "title": "How DARPA plans to get nuclear power in the size of a ‘AA battery’",
+    "url": "https://breakingdefense.com/2026/07/how-darpa-plans-to-get-nuclear-power-in-the-size-of-aa-battery/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/how-darpa-plans-to-get-nuclear-power-in-the-size-of-aa-battery/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260724_rads_to_watts_DARPA-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Seven teams are competing as part of DARPA&#8217;s Rads to Watts program to create a new kind of miniature power cell that last for years or decades without recharging. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-07-29T10:36:26+00:00",
+    "source": "Defense News",
+    "title": "Trump, Zelenskyy discuss Patriot deal and reviving talks with Russia",
+    "url": "https://www.defensenews.com/global/europe/2026/07/29/trump-zelenskyy-discuss-patriot-deal-and-reviving-talks-with-russia/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Zelenskyy later told Fox News’ “Hannity” show that Trump had “accepted that he will give us licenses” to produce the Patriot interceptors.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-07-29T08:00:20+00:00",
+    "source": "War on the Rocks",
+    "title": "ASML’s Extreme Ultraviolet Lithography and the Limits of Reverse Engineering in China",
+    "url": "https://warontherocks.com/cogs-of-war/asmls-extreme-ultraviolet-lithography-and-the-limits-of-reverse-engineering-in-china/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In June, the U.S. Department of Commerce informed the Dutch company ASML that it suspects one of its extreme ultraviolet lithography machines has reached China, an accusation that ASML denied, and for which no supporting evidence has yet been made public. ASML is the sole global producer of the machines capable of making the most advanced microchips. Whether China obtained a full extreme ultraviolet lithography scanner, major subsystems, or just related components, the strategic question is the same: How much can China gain from physical access to these pieces of the technology?The U.S. concern presumably spans across several dimensions, but</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/asmls-extreme-ultraviolet-lithography-and-the-limits-of-reverse-engineering-in-china/\">ASML&#8217;s Extreme Ultraviolet Lithography and the Limits of Reverse Engineering in China</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-07-29T07:30:23+00:00",
+    "source": "War on the Rocks",
+    "title": "Parsing Trump’s Decision to (Maybe) Give Uranium Enrichment to Saudi Arabia",
+    "url": "https://warontherocks.com/parsing-trumps-decision-to-maybe-give-uranium-enrichment-to-saudi-arabia/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>On June 22, the United States announced that it had signed a nuclear cooperation agreement with Saudi Arabia. This type of agreement broadly authorizes trade in nuclear technology, equipment, and materials, but only if the agreement and the country in question meet defined nonproliferation requirements. They are called Section 123 agreements for the section of the 1957 U.S. Atomic Energy Act that lays out the specific conditions for them. But the legal terms of Section 123 are only the minimum requirements in law: On top of the legal standards are nonproliferation policies that have been held by the United States</p>\n<p>The post <a href=\"https://warontherocks.com/parsing-trumps-decision-to-maybe-give-uranium-enrichment-to-saudi-arabia/\">Parsing Trump’s Decision to (Maybe) Give Uranium Enrichment to Saudi Arabia</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-07-28T21:01:00+00:00",
     "source": "Breaking Defense",
     "title": "Marine Corps accepts last Osprey aircraft",
