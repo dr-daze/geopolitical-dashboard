@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-07-31T12:34:03+00:00",
+    "source": "Defense News",
+    "title": "Chinese military researchers tap US AI models to train defense systems",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Chinese researchers have reportedly used leading U.S. AI models developed by OpenAI and Anthropic to train AI systems to advance defense capabilities.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-07-31T12:08:03+00:00",
+    "source": "Breaking Defense",
+    "title": "Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027",
+    "url": "https://breakingdefense.com/2026/07/light-at-the-end-of-m-codes-tunnel-receivers-for-ships-planes-to-finish-tests-by-2027/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/light-at-the-end-of-m-codes-tunnel-receivers-for-ships-planes-to-finish-tests-by-2027/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260731_DVIDS_mcode_launch_9628911-scaled-e1785498551538-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>An Air Force office recently took over the sprawling M-Code project, meant to give jam- and spoof-proof GPS receivers to potentially a million pieces of tech.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
     "timestamp": "2026-07-30T21:46:22+00:00",
     "source": "Long War Journal",
     "title": "Israel says Hezbollah launched drone attack on strategic ridge amid ceasefire",
