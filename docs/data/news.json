@@ -1,5 +1,65 @@
 [
   {
+    "timestamp": "2026-08-03T12:45:45+00:00",
+    "source": "Defense News",
+    "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
+    "url": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The mission for the United Nations Interim Force in Lebanon is nearing its end. Amid Israeli occupation, a decision on what comes next has yet to be made.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-08-03T12:18:14+00:00",
+    "source": "Breaking Defense",
+    "title": "Northrop gets $3B framework deal to increase motor production for PAC-3, THAAD",
+    "url": "https://breakingdefense.com/2026/08/northrop-gets-3b-framework-deal-to-increase-motor-production-for-pac-3-thaad/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/northrop-gets-3b-framework-deal-to-increase-motor-production-for-pac-3-thaad/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"575\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2021/07/pac-3-launch.jpg.pc-adaptive.1920-e1679325063838-1024x575.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The deal will allow Northrop to stand up production as a second supplier of solid rocket motors for the PAC-3 interceptor. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-08-03T11:33:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Multinational RIMPAC exercise played ‘primary laboratory’ for cutting edge tech",
+    "url": "https://breakingdefense.com/2026/08/multinational-rimpac-exercise-was-primary-laboratory-for-cutting-edge-tech/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/multinational-rimpac-exercise-was-primary-laboratory-for-cutting-edge-tech/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/USN_Saildrone_Surveyor_USV_RIMPAC_2026_DVIDS_9800266-scaled-e1783696065754-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Experiments involving 3D printing and launching missiles from uncrewed vessels were expected to take place among high-end warfighting training.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-08-03T08:00:32+00:00",
+    "source": "War on the Rocks",
+    "title": "How to Stop China from Freeriding on American AI",
+    "url": "https://warontherocks.com/cogs-of-war/how-to-stop-china-from-freeriding-on-american-ai/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>The release of the Chinese open-weight AI model Kimi K3 has compressed a year&#8217;s worth of unresolved AI policy debate into a single news cycle. On July 21, Treasury Secretary Scott Bessent threatened sanctions against Chinese labs found to have built their models on &#8220;theft,&#8221; reporting that the government is &#8220;finding watermarks of our U.S. large language models on many of the Chinese models.&#8221; The following day, White House science advisor Michael Kratsios clarified that the Chinese AI lab behind K3, Moonshot AI, had built a sophisticated platform to copy Anthropic&#8217;s Fable model while evading detection.Industry has been vocal about</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/how-to-stop-china-from-freeriding-on-american-ai/\">How to Stop China from Freeriding on American AI</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-08-03T07:30:16+00:00",
+    "source": "War on the Rocks",
+    "title": "Possible Is Not Plausible: How Nightmare Scenarios Hijack Unconventional Weapons Policy",
+    "url": "https://warontherocks.com/possible-is-not-plausible-how-nightmare-scenarios-hijack-unconventional-weapons-policy/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Current conversations surrounding unconventional weapons &#8212; chemical, biological, radiological, and nuclear &#8212; have become so fantastical as to be unserious. As the Chinese military fundamentally rethinks biological warfare and Russia continues to use chloropicrin in Ukraine, hypothetical scenarios of AI-enabled bioweapons dominate the headlines. If national security leaders and unconventional weapons experts continue to prioritize latent potentialities of emerging technology over current trends, U.S. national security will once again run the risk of being unprepared for an actual chemical, biological, radiological, or nuclear incident.Executive agencies and Congress have drastically cut down opportunities for successful unconventional weapons policy formation by eliminating</p>\n<p>The post <a href=\"https://warontherocks.com/possible-is-not-plausible-how-nightmare-scenarios-hijack-unconventional-weapons-policy/\">Possible Is Not Plausible: How Nightmare Scenarios Hijack Unconventional Weapons Policy</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-07-31T20:27:03+00:00",
     "source": "War on the Rocks",
     "title": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
