@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-09-01T15:08:48+00:00",
+    "source": "Defense News",
+    "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The move is the latest in the service’s yearslong effort to replace the Bradley Fighting Vehicle.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T14:35:51+00:00",
+    "source": "Defense News",
+    "title": "US tech found in Russian ballistic missiles",
+    "url": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Dozens of American- and European-made components are still being used to build Russia’s deadly ballistic missiles.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T14:27:56+00:00",
+    "source": "Long War Journal",
+    "title": "Iranian-backed militia in Iraq sets ‘conditions’ for disarmament",
+    "url": "https://www.longwarjournal.org/archives/2026/09/iranian-backed-militia-in-iraq-sets-conditions-for-disarmament.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>Iraq’s efforts to bring the weapons of Iranian-backed militias under state control are facing a new challenge as one of the country's groups, Kataib Sayyid al Shuhada, has laid out conditions for disarmament. The debate comes amid continued US pressure on Baghdad to disarm the groups, a looming coalition withdrawal deadline, and renewed efforts by the Iraqi government to assert its authority over armed factions.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/09/iranian-backed-militia-in-iraq-sets-conditions-for-disarmament.php\">Iranian-backed militia in Iraq sets ‘conditions’ for disarmament</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "proxy"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T13:26:16+00:00",
+    "source": "Breaking Defense",
+    "title": "US approves potential $800 million helicopter sale to Iraq",
+    "url": "https://breakingdefense.com/2026/09/us-approves-potential-800-million-helicopter-sale-to-iraq/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/us-approves-potential-800-million-helicopter-sale-to-iraq/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/GettyImages-625733140-scaled-e1788268190818-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The proposed sale “will improve Iraq’s capability to meet current and future threats by improving its rotary wing transport, reconnaissance, and air-to-surface targeting capabilities,&#8221; the State Department said.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T13:23:27+00:00",
+    "source": "Defense News",
+    "title": "US Navy unveils new specs for carrier-based Collaborative Combat Aircraft",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The U.S. Navy has submitted a Request for Information that reveals new specifications for its future carrier-based Combat Collaborative Aircraft.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T12:27:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Lessons learned that bring factory speed, adaptability and scalability to air-and-missile defense",
+    "url": "https://breakingdefense.com/2026/09/lessons-learned-that-bring-factory-speed-adaptability-and-scalability-to-air-and-missile-defense/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/lessons-learned-that-bring-factory-speed-adaptability-and-scalability-to-air-and-missile-defense/\"><img alt=\"L3Harris Industry Insight featured image\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/L3Harris-Industry-Insight-featured-image-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>[Sponsored] Dwindling stockpiles and lessons learned from Ukraine and Iran are driving urgent needs for revamping manufacturing.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T12:26:59+00:00",
+    "source": "Defense News",
+    "title": "Poland readies for record-breaking defense show as opulent budget lures vendors",
+    "url": "https://www.defensenews.com/global/europe/2026/09/01/poland-readies-for-record-breaking-defense-show-as-opulent-budget-lures-vendors/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Poland's sizable defense budget is expected lure a record number of companies to the European nation next week.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T12:24:01+00:00",
+    "source": "Defense News",
+    "title": "Defense startup raises $61 million to put AI into a wrist-worn display",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "A defense startup has raised $61 million to put AI into a wrist-worn display that connects field operators to real-time data.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T08:00:28+00:00",
+    "source": "War on the Rocks",
+    "title": "A Rulebook for Surprises: Commanding Autonomous Aircraft",
+    "url": "https://warontherocks.com/cogs-of-war/a-rulebook-for-surprises-commanding-autonomous-aircraft/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>My greatest challenge while flight testing collaborative combat aircraft was not troubleshooting errors at high speed in the cockpit. It was when, in a single keystroke, my job shifted from pilot to something like a dog handler &#8212; a supervisor of an autonomous agent. As a test pilot, my instinct is to stop for surprise machine behavior, but that met a system where such unexpected behavior could be a good thing. Managing autonomy means accounting for a new phenomenon &#8212; machine behavior that is both correct and unexpected.Historically, aircrews have handled surprises by assuming there&#8217;s a malfunction and fixing it,</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/a-rulebook-for-surprises-commanding-autonomous-aircraft/\">A Rulebook for Surprises: Commanding Autonomous Aircraft</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T07:30:23+00:00",
+    "source": "War on the Rocks",
+    "title": "The Educated Operator: Rethinking Lethality in Special Operations",
+    "url": "https://warontherocks.com/the-educated-operator-rethinking-lethality-in-special-operations/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Editor&#8217;s Note: While War on the Rocks has a high standard for allowing pseudonyms, this is an unusual case: U.S. Army Special Operations Command requires its uniformed personnel to use pseudonyms when writing for public consumption (Policy 23-16). Meek young men grow up in libraries, believing it their duty to accept the views which Cicero, which Locke, which Bacon, have given; forgetful that Cicero, Locke, and Bacon were only young men in libraries when they wrote these books. &#8211;Ralph Waldo Emerson Over the course of more than a dozen combat deployments, it is undeniably true that being dumb has sometimes</p>\n<p>The post <a href=\"https://warontherocks.com/the-educated-operator-rethinking-lethality-in-special-operations/\">The Educated Operator: Rethinking Lethality in Special Operations</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-01T07:00:15+00:00",
+    "source": "War on the Rocks",
+    "title": "The Political Constraint on America’s Data-Center Power Buildout",
+    "url": "https://warontherocks.com/the-political-constraint-on-americas-data-center-power-buildout/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In April, President Donald Trump issued two Defense Production Act determinations covering grid infrastructure and large-scale energy infrastructure. One found that the country&#8217;s constrained electric grid posed an increasing threat to national defense and made grid infrastructure and its supply chains essential to national defense. The other found that financing risks, regulatory delays, and market barriers were preventing large-scale energy infrastructure essential to national defense from being provided in a timely manner. Less than three months later, New York Gov. Kathy Hochul imposed a one-year moratorium on new hyperscale data centers. Her order said the pause would keep New Yorkers</p>\n<p>The post <a href=\"https://warontherocks.com/the-political-constraint-on-americas-data-center-power-buildout/\">The Political Constraint on America’s Data-Center Power Buildout</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield",
+      "market_shock"
+    ]
+  },
+  {
     "timestamp": "2026-08-31T22:24:26+00:00",
     "source": "Breaking Defense",
     "title": "Army Secretary Dan Driscoll resigns",
