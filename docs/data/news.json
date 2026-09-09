@@ -1,5 +1,164 @@
 [
   {
+    "timestamp": "2026-09-09T14:07:48+00:00",
+    "source": "Breaking Defense",
+    "title": "Italy orders 2 new MQ-9As Reapers, as US seeks newer options",
+    "url": "https://breakingdefense.com/2026/09/italy-orders-2-new-mq-9as-reapers-as-us-seeks-newer-options/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/italy-orders-2-new-mq-9as-reapers-as-us-seeks-newer-options/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"575\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260909_DVIDS_reaper_taxiing_9746180-scaled-e1788962752983-1024x575.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Rome previously ordered a handful of Reapers, but lost one of the drones in Libya in 2019, and another one was destroyed in March during an Iranian drone strike in Kuwait.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T13:38:38+00:00",
+    "source": "Defense News",
+    "title": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
+    "url": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "U.S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T13:30:36+00:00",
+    "source": "Defense News",
+    "title": "US Navy’s next-generation fighter decision to be unveiled soon, sources say",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T12:00:00+00:00",
+    "source": "Defense News",
+    "title": "US Air Force seeks ‘rapidly deployable’ drone swarms for base security",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/09/us-air-force-seeks-rapidly-deployable-drone-swarms-for-base-security/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The U.S. Air Force is looking to use \"rapidly deployable\" swarms of AI-controlled drones for base security.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T11:00:00+00:00",
+    "source": "Defense News",
+    "title": "Defense startup’s AI aims to make every munition count",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/09/defense-startups-ai-aims-to-make-every-munition-count/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Smack Technologies' CEO said its AI modeling tool will help commanders decide not just which targets to strike, but how to sequence strikes over time.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T09:52:07+00:00",
+    "source": "Defense News",
+    "title": "Ukrainian industry scrambles to field interceptors against Russian jet drones",
+    "url": "https://www.defensenews.com/global/europe/2026/09/09/ukrainian-industry-scrambles-to-field-interceptors-against-russian-jet-drones/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Ukrainian companies are pushing to make their interceptor drones faster, aiming to be effective against Russian jet-powered drones.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T09:23:05+00:00",
+    "source": "Defense News",
+    "title": "South Korea supercharges defense budget to record levels",
+    "url": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "South Korea's record defense budget comes amid disparaging comments about Seoul's alliance with the United States by its president, Donald Trump.",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T08:18:00+00:00",
+    "source": "Breaking Defense",
+    "title": "What to know about Europe’s next-gen fighter programs",
+    "url": "https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/FB2-pb-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>FCAS? GCAP? Upgraded Eurofighter Typhoons? The Breaking Defense roundtable walks you through the options on the table. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T08:00:38+00:00",
+    "source": "War on the Rocks",
+    "title": "The Tyranny of Shipyard Cost-Plus Contracting",
+    "url": "https://warontherocks.com/cogs-of-war/the-tyranny-of-shipyard-cost-plus-contracting/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>As a naval shipyard commander, my mandate from Navy leadership is straightforward:&#160;return warships to the fleet as quickly as possible.&#160;Neither my shipyard nor many other public and private shipyards are consistently fulfilling that mission.Public shipyard availabilities &#8212; the scheduled periods during which nuclear-powered warships are taken out of operational service for maintenance, repair, or modernization &#8212; are often delayed well beyond their original timelines. A recent Government Accountability Office report highlighted that over the past 10 years, maintenance delays for attack submarines have resulted in 15,000 lost operational days and an estimated $3.4 billion in costs. This problem of maintenance</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-tyranny-of-shipyard-cost-plus-contracting/\">The Tyranny of Shipyard Cost-Plus Contracting</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T07:30:29+00:00",
+    "source": "War on the Rocks",
+    "title": "The Strange Transformation of the Front Line in Ukraine",
+    "url": "https://warontherocks.com/the-strange-transformation-of-the-front-line-in-ukraine/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>On Jan. 5, 2025, my volunteer platoon attached to the 23rd Special Purpose Battalion of the Presidential Brigade entered a 1-kilometer-long tree line called CHAI, on the outskirts of Kotlyne, a few kilometers west of Pokrovsk, Ukraine. Our task was to occupy a position whose status on DeepState, an open-source map tracking military operations in the Russo-Ukrainian war, had been shifting out of gray for five days. On DeepState&#8217;s map, different colors illustrate the fighting situation: the red area is held by the aggressor, while green or blue areas show territory successfully defended or recaptured by the Ukrainian army. The</p>\n<p>The post <a href=\"https://warontherocks.com/the-strange-transformation-of-the-front-line-in-ukraine/\">The Strange Transformation of the Front Line in Ukraine</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T07:15:03+00:00",
+    "source": "War on the Rocks",
+    "title": "The Mecca Pact’s Credibility Gap",
+    "url": "https://warontherocks.com/the-mecca-pacts-credibility-gap/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Collective-defense pacts are meant to make war less likely. Poorly designed ones can do the opposite. If allies make sweeping promises without the military integration, decision-making mechanisms, and escalation controls needed to carry them out, they may invite adversaries to test the boundaries of these promises.The Mecca Joint Defense Agreement between Saudi Arabia, Turkey, and Pakistan, signed on Aug. 7 amid intensifying regional conflict, represents a significant but uncertain development in the region. The agreement declares that an attack on one member will be treated as an attack on all three, establishing a broad commitment to collective deterrence. Yet the</p>\n<p>The post <a href=\"https://warontherocks.com/the-mecca-pacts-credibility-gap/\">The Mecca Pact’s Credibility Gap</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-09T02:03:19+00:00",
+    "source": "Defense News",
+    "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Iran said Tuesday it captured a U.S. uncrewed submarine in the Strait of Hormuz. The Pentagon said it had malfunctioned more than a day ago.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-08T22:30:56+00:00",
+    "source": "Long War Journal",
+    "title": "Lebanese Army intensifies Nabatieh deployment as report says mission excludes Hezbollah disarmament",
+    "url": "https://www.longwarjournal.org/archives/2026/09/lebanese-army-intensifies-nabatieh-deployment-as-report-says-mission-excludes-hezbollah-disarmament.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>The Lebanese Armed Forces (LAF) is intensifying its presence in Nabatieh in southern Lebanon while reinforcing nearby Zawtar al Gharbiyeh, one of the pilot zones of the June 26 Trilateral Framework Between the United States of America, the State of Israel, and the Republic of Lebanon. Lebanese reporting says the Nabatieh mission is intended to contain escalation rather than disarm Hezbollah, even though the framework makes the LAF responsible for implementing a process centered on the verified disarmament and dismantlement of non-state military infrastructure.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/09/lebanese-army-intensifies-nabatieh-deployment-as-report-says-mission-excludes-hezbollah-disarmament.php\">Lebanese Army intensifies Nabatieh deployment as report says mission excludes Hezbollah disarmament</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "escalation",
+      "proxy"
+    ]
+  },
+  {
     "timestamp": "2026-09-08T21:29:19+00:00",
     "source": "Defense News",
     "title": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
@@ -21,6 +180,18 @@
     "summary": "<p><a href=\"https://breakingdefense.com/2026/09/army-sets-new-biodefense-plan-to-counter-pandemic-adversary-threats/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/10/221025_soldier_gas_mask_3778693-scaled-e1666718952951-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“We have to ensure that a global pandemic or some other health event does not stop us from our ability to project those forces forward, so we can be in the place to fight and win the war and endure through any conflict,” Lt. Col. Dave Kingery, the biological defense integrator for the Army’s headquarters and USANCA, said. </p>",
     "tags": [
       "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-08T20:02:24+00:00",
+    "source": "Long War Journal",
+    "title": "Islamic state plots disrupted and operatives arrested in 4 countries",
+    "url": "https://www.longwarjournal.org/archives/2026/09/islamic-state-plots-disrupted-and-operatives-arrested-in-4-countries.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>Authorities in Kuwait, Israel, Turkey, and France disrupted suspected Islamic State plots or arrested the organization’s sympathizers over the past month. The incidents demonstrate the jihadist group's continued ability to recruit and radicalize individuals despite more than a decade of sustained counterterrorism pressure.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/09/islamic-state-plots-disrupted-and-operatives-arrested-in-4-countries.php\">Islamic state plots disrupted and operatives arrested in 4 countries</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "proxy"
     ]
   },
   {
@@ -105,6 +276,18 @@
     "summary": "<p><a href=\"https://breakingdefense.com/2026/09/white-house-has-lofty-space-launch-ambitions-but-experts-question-price-tag/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/Falcon-9-launch-SSC-pic-scaled-e1785358505411-1024x577.jpeg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The space industry lauded a new Trump administration 1,000-launches-a-year space policy, but experts told Breaking Defense that the current space infrastructure doesn’t have enough capacity and someone’s going to have to pay, potentially a lot, to change that.</p>",
     "tags": [
       "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-08T15:58:44+00:00",
+    "source": "Long War Journal",
+    "title": "Iran continues attacks on Kurdish opposition group in northern Iraq",
+    "url": "https://www.longwarjournal.org/archives/2026/09/iran-continues-attacks-on-kurdish-opposition-group-in-northern-iraq.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>Iran has maintained its campaign against Kurdish Iranian opposition groups in the Kurdistan Region of northern Iraq, carrying out another drone strike on September 2 amid a US military withdrawal. The latest attack underscores the growing security challenges facing the Kurdistan Region as Iran intensifies pressure on Kurdish dissidents, and Iraq has yet to disarm Iran-backed militias.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/09/iran-continues-attacks-on-kurdish-opposition-group-in-northern-iraq.php\">Iran continues attacks on Kurdish opposition group in northern Iraq</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "proxy"
     ]
   },
   {
