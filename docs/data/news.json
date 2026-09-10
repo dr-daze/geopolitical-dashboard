@@ -1,5 +1,125 @@
 [
   {
+    "timestamp": "2026-09-10T14:26:04+00:00",
+    "source": "Defense News",
+    "title": "Iran likely to reverse-engineer captured US underwater drone",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Iran will almost certainly try to pry open the captured drone’s hardware, but the platform's software does carry built-in defenses, analysts say.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T14:16:04+00:00",
+    "source": "Defense News",
+    "title": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
+    "url": "https://www.defensenews.com/global/2026/09/10/russia-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-boost-morale/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Bone fragments from the sword hand of a medieval Russian prince who won a famous victory over the Mongols have been sent to the front in Ukraine.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T14:09:55+00:00",
+    "source": "Breaking Defense",
+    "title": "Emirati EDGE Group delivers six unmanned helicopters to Angolan navy",
+    "url": "https://breakingdefense.com/2026/09/emirati-edge-group-delivers-six-unmanned-helicopters-to-angolan-navy/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/emirati-edge-group-delivers-six-unmanned-helicopters-to-angolan-navy/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260910_EDGE_unmanned_helo_Handout_sized-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The unmanned helos will be integrated on three corvettes that Angola purchased for over $1 billion in 2023.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T13:48:21+00:00",
+    "source": "Defense News",
+    "title": "NATO allies foil Russian subsea cable sabotage plot",
+    "url": "https://www.defensenews.com/global/europe/2026/09/10/nato-allies-foil-russian-subsea-cable-sabotage-plot/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The clandestine Russian operation was carried out by Moscow’s GUGI undersea warfare directorate to test a destructive sabotage capability, sources said.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T13:29:15+00:00",
+    "source": "Breaking Defense",
+    "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
+    "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles/\"><img alt=\"Ukrainian Armor unveiled its Varta 3 Mine Resistant Ambush Protected (MRAP) vehicle at the MSPO trade show (Breaking Defense)\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/IMG_20260909_151632721_HDR-scaled-e1789035199684-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Saigak APC features an active protection system that the company says can defeat up to 20 First Person View (FPV) drones, amid a proliferation of the aircraft dominating the war in Ukraine.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T13:09:19+00:00",
+    "source": "Breaking Defense",
+    "title": "Netherlands to purchase its own GlobalEye aircraft, on top of NATO’s order",
+    "url": "https://breakingdefense.com/2026/09/netherlands-to-purchase-its-own-globaleye-aircraft-on-top-of-natos-order/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/netherlands-to-purchase-its-own-globaleye-aircraft-on-top-of-natos-order/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/globaleye-scaled-e1750268534637-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The plane, which would be delivered in 2031, would be owned directly by the Netherlands. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T11:14:42+00:00",
+    "source": "Defense News",
+    "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
+    "url": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The U.S. radar specialist said it's sensing new business opportunities in Europe, where governments are scrambling to up their counter-drone capabilities.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T08:00:52+00:00",
+    "source": "War on the Rocks",
+    "title": "Automating the Action Officer: Between Bureaucracy and Technology",
+    "url": "https://warontherocks.com/cogs-of-war/automating-the-action-officer-between-bureaucracy-and-technology/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>If there is a revolution brewing in the automation of white-collar work, you wouldn&#8217;t know it at the Pentagon. Here, the typical action officers, staff who tackle the daily work of the bureaucracy, perform essentially the same duties as their predecessors in 1996 or 1956: creating charts, authoring papers, delivering briefings, and coordinating across offices. Given the promise of AI tools, allowing this staff ecosystem to remain stuck in the past represents a dangerous failure to adapt, especially as senior leaders criticize the workforce for lacking organizational speed. Having served as an action officer across the White House, Pentagon, and</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/automating-the-action-officer-between-bureaucracy-and-technology/\">Automating the Action Officer: Between Bureaucracy and Technology</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T07:30:59+00:00",
+    "source": "War on the Rocks",
+    "title": "The Assessment Gap in U.S. Counter-Terrorism Strikes",
+    "url": "https://warontherocks.com/the-assessment-gap-in-u-s-counter-terrorism-strikes/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>For eight years I helped decide whether American counter-terrorism money was working.As a programs advisor in the State Department&#8217;s Bureau of Counterterrorism from 2018 to 2025, I oversaw about 20 projects in East Africa worth roughly $80 million a year. None of that money moved without a performance monitoring plan. We established baselines before work started and agreed on indicators in advance. When a project underperformed, or the reporting came late, we withheld funding. Reporting tracked activities against those metrics across the life of the program. Independent evaluations validated what implementers said they had done.That machinery was not the bureau&#8217;s</p>\n<p>The post <a href=\"https://warontherocks.com/the-assessment-gap-in-u-s-counter-terrorism-strikes/\">The Assessment Gap in U.S. Counter-Terrorism Strikes</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-10T06:29:00+00:00",
+    "source": "Breaking Defense",
+    "title": "How Japan, South Korea are building up naval capabilities for China threat",
+    "url": "https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/ASEV-e1788961707626-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Japan and South Korea are stepping up their naval game in the face of China&#8217;s phenomenal expansion.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
     "timestamp": "2026-09-09T23:32:12+00:00",
     "source": "Defense News",
     "title": "Israeli-based defense company rebrands American subsidiary to  Twenty-Six Defense",
