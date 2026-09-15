@@ -1,5 +1,186 @@
 [
   {
+    "timestamp": "2026-09-15T01:13:26+00:00",
+    "source": "Defense News",
+    "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The U.S. Navy awarded a $562 million fixed-price incentive contract to Boeing on Monday to start Lot 1 Low Rate Initial Production of the MQ-25A Stingray.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T22:25:28+00:00",
+    "source": "Defense News",
+    "title": "US Air Force secretary reveals deployment of on-orbit space control weapons",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-secretary-reveals-deployment-of-on-orbit-space-control-weapons/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Secretary of the Air Force Troy Meink revealed that the service deployed on-orbit space control weapons but did not offer details on the type of weapon.",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T21:50:19+00:00",
+    "source": "Breaking Defense",
+    "title": "The gap between demand and delivery is widening. AI can help close it.",
+    "url": "https://breakingdefense.com/2026/09/the-gap-between-demand-and-delivery-is-widening-ai-can-help-close-it/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/the-gap-between-demand-and-delivery-is-widening-ai-can-help-close-it/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Accenture-sustainment-1-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>[Sponsored] Supply chains are only as strong as their weakest link, which has been repeatedly proven to be true over the last few years.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T21:30:13+00:00",
+    "source": "Breaking Defense",
+    "title": "White House sends Cao’s SECNAV nomination to Senate",
+    "url": "https://breakingdefense.com/2026/09/white-house-sends-caos-secnav-nomination-to-senate/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/white-house-sends-caos-secnav-nomination-to-senate/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/9640021-scaled-e1777409978745-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The White House has also sent nominations over to the Senate for William Toti to serve as undersecretary of the Navy, and for retired Vice Adm. Richard Breckenridge as an assistant secretary of the Navy. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T21:13:16+00:00",
+    "source": "Defense News",
+    "title": "‘It’s not science fiction’: US Air Force must build trust in AI, says expert",
+    "url": "https://www.defensenews.com/air/2026/09/14/its-not-science-fiction-us-air-force-must-build-trust-in-ai-says-expert/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The military must work on how to combat fast and reckless enemy AI agents that don’t necessarily operate with the same oversight, according to experts.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T20:00:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
+    "url": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/01/220126_csis_space_dashboard-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The big question facing DoD is what happens if the Traffic Coordination System for Space program is scrapped: is US Space Command left holding the space safety bag in perpetuity?</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T19:57:01+00:00",
+    "source": "Defense News",
+    "title": "US military must focus on ‘right mix’ of weapons amid stockpile concerns: Official",
+    "url": "https://www.defensenews.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "With lingering questions regarding the depleted U.S. stockpiles due to the war with Iran, the U.S. military is looking to build the “right mix” of weapons.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T19:45:40+00:00",
+    "source": "Defense News",
+    "title": "Lockheed to build 4 more Vectis drones, 2027 first flight remains on target",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/14/lockheed-to-build-4-more-vectis-drones-2027-first-flight-remains-on-target/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Lockheed Martin’s Skunk Works is slated to build four more Vectis uncrewed aircraft, with the first expected to fly by the end of 2027.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T19:27:57+00:00",
+    "source": "Breaking Defense",
+    "title": "Despite fire, lengthy deployment, Navy expects only six-month maintenance for USS Ford",
+    "url": "https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9595353-scaled-e1778620056383-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Ford wrapped up its 326-day deployment in May. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T19:10:06+00:00",
+    "source": "Defense News",
+    "title": "Geissele Automatics reveals ‘production-ready’ assault rifle for SOCOM",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/14/geissele-automatics-reveals-production-ready-assault-rifle-for-socom/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The Pennsylvania gun company introduced a model of its Hypervelocity Improved Capability Assault Rifle.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T18:56:39+00:00",
+    "source": "Breaking Defense",
+    "title": "AFA’s 2026 Air, Space & Cyber Conference kicks off",
+    "url": "https://breakingdefense.com/2026/09/afas-2026-air-space-cyber-conference-kicks-off/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/afas-2026-air-space-cyber-conference-kicks-off/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/AFA2026-SEPT14-W-21-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>From unmanned fighter jets to scale-model satellites, here are some of the sights from around the expo floor at the Gaylord National Resort and Conference Center.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T18:40:51+00:00",
+    "source": "War on the Rocks",
+    "title": "Reading the Kremlin’s Mind: Ukrainian Writers Attempt to Understand Putin",
+    "url": "https://warontherocks.com/reading-the-kremlins-mind-ukrainian-writers-attempt-to-understand-putin/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks&#160;members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.American coverage often narrows the view to the battlefield &#8212; these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete picture of Ukraine as it really is.Frontline and Strategy&#1060;&#1086;&#1082;&#1091;&#1089;</p>\n<p>The post <a href=\"https://warontherocks.com/reading-the-kremlins-mind-ukrainian-writers-attempt-to-understand-putin/\">Reading the Kremlin&#8217;s Mind: Ukrainian Writers Attempt to Understand Putin</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T18:35:09+00:00",
+    "source": "Breaking Defense",
+    "title": "After combat success, AFSOC wants new Leidos cruise missile on ‘every type’ of platform",
+    "url": "https://breakingdefense.com/2026/09/after-combat-success-afsoc-wants-new-leidos-cruise-missile-on-every-type-of-platform/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/after-combat-success-afsoc-wants-new-leidos-cruise-missile-on-every-type-of-platform/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"575\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260914_DVIDS_AGM_190A_9934729-e1789410853517-1024x575.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The 200-pound class Havoc Spear has a range of over 400 nautical miles (460 miles), according to Leidos. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T17:43:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Bombardier Defense, your trusted, mission-focused partner",
+    "url": "https://breakingdefense.com/2026/09/bombardier-defense-your-trusted-mission-focused-partner/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/bombardier-defense-your-trusted-mission-focused-partner/\"><img alt=\"Bombardier Defense\" class=\"attachment-large size-large wp-post-image\" height=\"300\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/DDBA1473_BerlinServiceCenter_Keyimage_Employee_2_V1_resized.jpg\" style=\"height: auto!important;\" width=\"600\" /></a></p><p>[Sponsored] A commitment to long-term operational value.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-14T17:17:28+00:00",
+    "source": "Defense News",
+    "title": "US Air Force to stand up point defense career field within 2 years, Wilsbach says",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-to-stand-up-point-defense-career-field-within-2-years-wilsbach-says/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Within two years, the Air Force will establish a new career field focused on defending American air bases worldwide.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-09-14T17:00:54+00:00",
     "source": "Defense News",
     "title": "Vengeance and Fury: US Air Force names new CCAs amid ambitious production goal",
