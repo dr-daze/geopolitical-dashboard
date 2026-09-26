@@ -1,5 +1,127 @@
 [
   {
+    "timestamp": "2026-09-25T21:24:56+00:00",
+    "source": "Defense News",
+    "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+    "url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T20:28:21+00:00",
+    "source": "Breaking Defense",
+    "title": "Building logistics networks that survive contested environments",
+    "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments/\"><img alt=\"Explore how software, edge AI and resilient connectivity can strengthen military logistics in contested environments. Join Breaking Defense on Oct. 21 and earn 1 CPE credit.\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/2026_Wind_River_Webinar_Featured-Image-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Explore how software, edge AI and resilient connectivity can strengthen military logistics in contested environments. Join Breaking Defense on Oct. 21 and earn 1 CPE credit.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T19:50:44+00:00",
+    "source": "Breaking Defense",
+    "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
+    "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/anthropic-1-scaled-e1773078524623-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Pentagon CTO Emil Michael crowed “The hammer of justice has smashed AnthropicAI[’s] arguments.” The AI titan hinted at an appeal — but they may not be allowed one.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T19:49:34+00:00",
+    "source": "Defense News",
+    "title": "Trump administration obligates $307M for military aid to Ukraine",
+    "url": "https://www.defensenews.com/global/europe/2026/09/25/trump-administration-obligates-307m-for-military-aid-to-ukraine/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The Trump administration has made legally binding commitments to spend almost all of the $400 million Congress approved for military aid to Ukraine.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T19:45:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
+    "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/08/210512-N-LX838-1230-scaled-e1659707922643-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Navy originally estimated that the Shipyard Infrastructure Optimization Program (SIOP) would cost approximately $21 billion. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T19:19:29+00:00",
+    "source": "Defense News",
+    "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "A federal appeals court upheld the Pentagon’s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T19:12:45+00:00",
+    "source": "Breaking Defense",
+    "title": "‘Cyber magazine’ can run out ‘pretty damn quick’ in modern conflict: Admiral",
+    "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/6762559-scaled-e1782151740819-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>In the wake of public debates about the health of physical US munitions, a senior Navy official said the &#8220;cyber magazine&#8221; isn&#8217;t infinite either.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T18:13:48+00:00",
+    "source": "Defense News",
+    "title": "US Navy stands up hub to prepare unmanned systems for combat",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology.",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T17:58:58+00:00",
+    "source": "Breaking Defense",
+    "title": "South Korea inducts first locally developed fighter jet into air force",
+    "url": "https://breakingdefense.com/2026/09/south-korea-inducts-first-locally-developed-fighter-jet-into-air-force/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/south-korea-inducts-first-locally-developed-fighter-jet-into-air-force/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/KAI_KF-21-prototype_004_1st_flight-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Introduction of KF-21 into South Korea&#8217;s military marks a significant milestone for country&#8217;s defense industry</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T16:51:54+00:00",
+    "source": "Breaking Defense",
+    "title": "Navy launches Phase II for medium robo-ship project, seeks ‘innovative solutions’",
+    "url": "https://breakingdefense.com/2026/09/navy-launches-phase-ii-for-medium-robo-ship-project-seeks-innovative-solutions/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/navy-launches-phase-ii-for-medium-robo-ship-project-seeks-innovative-solutions/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/SeahawkMUSV-scaled-e1780512841630-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Navy wants medium unmanned surface vessels (MUSVs) that can operate for 10 days at sea and carry two shipping containers.</p>",
+    "tags": [
+      "energy_shock",
+      "escalation"
+    ]
+  },
+  {
     "timestamp": "2026-09-25T15:34:42+00:00",
     "source": "Defense News",
     "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
@@ -79,6 +201,30 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "The participation of F-35 stealth fighters in the Indian drills signals that New Delhi’s and Washington’s defense ties remain steady.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T08:00:28+00:00",
+    "source": "War on the Rocks",
+    "title": "Tracing the Future Soldier’s Tech Stack",
+    "url": "https://warontherocks.com/cogs-of-war/tracing-the-future-soldiers-tech-stack/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Movies, shows, and books have long been at the forefront of imagining the future of war. If you were to picture the &#8220;future soldier,&#8221; you&#8217;d likely picture the genetically engineered super soldiers that have captivated &#8212; and horrified &#8212; audiences for decades. Soldiers have been depicted as being engineered or bred for super strength or speed, intense rage or cold calculation, and even half-human, half-machine.While Hollywood&#8217;s most alarmist visions for the future soldier are nothing more than fantasy, advances in technologies and AI are pushing the frontier of soldier technologies.&#160;Cogs of War staff wanted to sort through what capabilities have</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/tracing-the-future-soldiers-tech-stack/\">Tracing the Future Soldier&#8217;s Tech Stack</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-09-25T07:30:29+00:00",
+    "source": "War on the Rocks",
+    "title": "North Korea’s Irregular Warfare After Ukraine",
+    "url": "https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Pyongyang has a long history of conducting irregular warfare and asymmetric operations: Look no further than the 1968 Blue House raid or the 1996 submarine incursion as the most pressing examples. More often than not, North Korea failed to achieve the intended objectives of its missions and lost its commandos. Despite failures, the regime pressed on, and now, over thirty years after the sub incursion, it has the combat experience of its special operations forces in Kursk to leverage. For policymakers and analysts, the more urgent question is that of transferability and operationalization of the Kursk lessons to the Korean</p>\n<p>The post <a href=\"https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/\">North Korea’s Irregular Warfare After Ukraine</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
