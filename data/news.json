@@ -1,5 +1,199 @@
 [
   {
+    "timestamp": "2026-10-14T01:30:00+00:00",
+    "source": "Defense News",
+    "title": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The Army's Operation Jailbreak initiative asked defense companies to hack into each other's autonomous systems and machines, enabling them to communicate.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-14T01:00:00+00:00",
+    "source": "Defense News",
+    "title": "US Army, Navy research labs team up to combat Arctic cold",
+    "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "As the Department of Defense eyes greater operability in the Arctic, it needs equipment that can operate in temps as low as -50 degrees Fahrenheit.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-14T00:30:00+00:00",
+    "source": "Defense News",
+    "title": "97% of US soldiers complete brain health assessment",
+    "url": "https://www.defensenews.com/news/your-military/2026/10/14/97-of-us-soldiers-complete-brain-health-assessment/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Medical professionals use the data to monitor soldiers' cognitive health throughout their military careers, allowing them to spot significant changes.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-14T00:27:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Army doubles down on autonomy, stakes out Indo-Pacific role: AUSA Day 2",
+    "url": "https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/AUSA2026day2-pb-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>From a newly redesignated command to long-range fires in the Pacific, Army leaders laid out where they see the service fitting into the future fight.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T23:00:00+00:00",
+    "source": "Defense News",
+    "title": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
+    "url": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The service’s decades-old Hometown Recruiter Assistance Program has been suspended, Lt. Gen. Johnny Davis confirmed.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T22:30:00+00:00",
+    "source": "Defense News",
+    "title": "Anduril’s Palmer Luckey envisions missiles made in car factories, underground battles",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Anduril founder and co-leader of the newly formed Project Meridian gave a sneak peek into what he sees as the future of war.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T21:15:00+00:00",
+    "source": "Defense News",
+    "title": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Anduril Industries received an Army contract worth up to $1.8 billion to continue expanding the service's Next Generation Command and Control.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T20:48:43+00:00",
+    "source": "Breaking Defense",
+    "title": "Avio, Lockheed sign agreement for solid rocket motor production",
+    "url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"562\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/prsm-inc-1-launch-e1791924458169.jpg\" style=\"height: auto!important;\" width=\"998\" /></a></p><p>The deal will pave a path for Avio USA to become a new provider of motors on Lockheed Martin’s Extended Range GMLRS and the Precision Strike Missile.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T20:45:00+00:00",
+    "source": "Defense News",
+    "title": "LaNeve to industry: ‘We are not walking away from modernization’",
+    "url": "https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The U.S. Army's Futures and Concepts Command has been redesignated as U.S. Army Futures and Autonomous Systems, the service's top officer announced.",
+    "tags": [
+      "battlefield",
+      "market_shock"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T20:23:16+00:00",
+    "source": "Breaking Defense",
+    "title": "Army’s Project Gatekeeper aims to cut software approval times from months to ‘minutes’",
+    "url": "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9833940-e1791923427465-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The service’s new cybersecurity testing sandbox will stand up on Oct. 23, said acting Army CIO Gabe Chiulli, streamlining the current cumbersome, ad hoc arrangements for clearing commercial software for Army networks.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T20:15:00+00:00",
+    "source": "Defense News",
+    "title": "BAE Systems unveils new layered air-defense system",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The weapons include the long-awaited Multi-Domain Artillery Cannon System and a High-Power Microwave.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T19:23:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Precision at scale: APKWS counters the threat",
+    "url": "https://breakingdefense.com/2026/10/precision-at-scale-apkws-counters-the-threat/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/precision-at-scale-apkws-counters-the-threat/\"><img alt=\"Image courtesy of BAE Systems.\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2015-0150-057-1024x683.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>[Sponsored] APKWS® laser‑guidance kit provides reliable precision‑guided munitions across missions and platforms, delivered quickly to meet evolving operational demands.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T19:15:00+00:00",
+    "source": "Defense News",
+    "title": "How autonomous weapons are changing the way brigades fight",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "At Fort Bragg in August, Army soldiers tested how unmanned systems could help troops breach obstacles while reducing their exposure to battlefield hazards.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T18:58:01+00:00",
+    "source": "Breaking Defense",
+    "title": "Democratic midterm gains could speed US military aid to Ukraine, lawmaker says",
+    "url": "https://breakingdefense.com/2026/10/democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmaker-says/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmaker-says/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2026WSF_DAY2_BS_3549-e1791912682636-1024x577.avif\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Polling and prediction markets suggest the midterms could deliver &#8220;a fairly massive repudiation of the president,&#8221; said Rep. Jim Himes, ranking member of the House Permanent Select Committee on Intelligence.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T18:51:30+00:00",
+    "source": "Breaking Defense",
+    "title": "LaNeve ‘redesignates’ Army’s Futures and Concepts Command as new FASCOM autonomy command",
+    "url": "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/10007219-scaled-e1791915072360-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The new US Army Futures and Autonomous Systems Command, &#8220;will pioneer operational concepts that harness autonomous capabilities across all warfighting functions,&#8221; Gen. Christopher LaNeve said today.</p>",
+    "tags": [
+      "escalation",
+      "market_shock"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T18:45:00+00:00",
+    "source": "Defense News",
+    "title": "Startup wants US soldiers to command AI agents through its smart glasses",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Rivet's CEO envisions a world where a soldier commands an AI agent, and the AI agent commands the robots and drones.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-10-13T18:15:00+00:00",
     "source": "Defense News",
     "title": "Army eyes changes to emergency war gear stocks amid review",
@@ -31,6 +225,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "Norway’s Kongsberg has decided to build a new production facility for counter-drone systems in northern Poland.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-13T18:00:06+00:00",
+    "source": "War on the Rocks",
+    "title": "Doubts Grow Over the Terms of Ukraine’s European Union Accession",
+    "url": "https://warontherocks.com/doubts-grow-over-the-terms-of-ukraines-european-union-accession/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield &#8212; these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete picture of Ukraine as it really is.Frontline</p>\n<p>The post <a href=\"https://warontherocks.com/doubts-grow-over-the-terms-of-ukraines-european-union-accession/\">Doubts Grow Over the Terms of Ukraine&#8217;s European Union Accession</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
