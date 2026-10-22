@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": "2026-10-21T20:46:13+00:00",
+    "source": "Breaking Defense",
+    "title": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
+    "url": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/07/240728_f35s_fog_USAF-scaled-e1722204407178-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Lt. Gen. David Tabor also confirmed reporting that the Air Force is considering a new build F-16, but said that decision wasn&#8217;t &#8220;urgent.&#8221;</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-21T19:01:44+00:00",
+    "source": "Defense News",
+    "title": "US Air Force outlines the fighter fleet it needs by 2035",
+    "url": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "A new Air Force report calls for 1,509 combat-coded fighters by 2035, with F-35s making up 40% of the fleet and F-47s replacing F-22s.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-21T18:35:00+00:00",
+    "source": "Breaking Defense",
+    "title": "Saudi Arabia’s nuclear program could outlive its government, so plan accordingly",
+    "url": "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/11/251106_trump_bin_salman_GettyImages-2214389007-e1762434753778.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Nuclear technology can outlive the strategic assumptions that justified its transfer, two experts caution US lawmakers.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-21T17:40:20+00:00",
+    "source": "War on the Rocks",
+    "title": "Fighting in Ethiopia and the Risk of Regional Spillover",
+    "url": "https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In September, fighting broke out in Ethiopia&#8217;s Tigray region between Ethiopian government forces and the Tigray People&#8217;s Liberation Front (TPLF), effectively collapsing the 2022 peace deal. In October, Ethiopian forces recaptured an airport and towns from the TPLF and started moving closer to the border with Eritrea. The renewed conflict raised concerns about both increased instability within Ethiopia &#8212; particularly as the TPLF joined with several other armed groups under a new Alliance for Survival &#8212; and the potential for a new war between Ethiopia and Eritrea. Ethiopia accused Eritrea of supporting the TPLF and sending its own forces across</p>\n<p>The post <a href=\"https://warontherocks.com/fighting-in-ethiopia-and-the-risk-of-regional-spillover/\">Fighting in Ethiopia and the Risk of Regional Spillover</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield",
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-21T17:29:24+00:00",
+    "source": "Breaking Defense",
+    "title": "Israel’s Elbit acquires Canadian company focused on autonomous underwater systems",
+    "url": "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/ISE-1-e1792603672888-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“ISE’s underwater technologies will further strengthen our position as a global provider of comprehensive, integrated maritime solutions,” Elbit President and CEO Bezhalel Machlis said in a company statement.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-21T15:55:31+00:00",
+    "source": "Defense News",
+    "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The Pentagon office tapped in 2022 to oversee the military’s responsible use of AI had filled just three of 10 authorized positions as of February 2026.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-10-21T15:18:41+00:00",
     "source": "Defense News",
     "title": "Got milk? US Army refines its pasteurization power",
@@ -91,6 +164,18 @@
     "category": "battlefield",
     "region": "Global",
     "summary": "Offials are worried that drone attacks could knock out power to millions of people — as has happened frequently in Ukraine after Russian strikes.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-21T08:00:11+00:00",
+    "source": "War on the Rocks",
+    "title": "Establishing Battery Supply Chain Resilience for Drones",
+    "url": "https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>Militaries have spent more than a century operating with fuel and ammunition as limits of combat endurance. They are only beginning to treat batteries with the same operational seriousness, as small unmanned systems move from niche equipment to mass-consumption weapons. Recent bipartisan supply diversification efforts by Congress, the administration, and the Department of Defense provide initial momentum to ensure supply chain independence and resilience for drone batteries. Further targeted efforts can accelerate the establishment of a competitive, advanced battery and cell domestic and allied industrial base.A drone battery can occupy three logistical categories at once. For a reusable reconnaissance drone,</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/\">Establishing Battery Supply Chain Resilience for Drones</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
     "tags": [
       "battlefield"
     ]
