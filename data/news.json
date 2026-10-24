@@ -1,5 +1,79 @@
 [
   {
+    "timestamp": "2026-10-23T21:11:04+00:00",
+    "source": "Breaking Defense",
+    "title": "GDIT announces Amy Johnson as new president",
+    "url": "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/general-dybnamics-logo-scaled-e1792789797924-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Johnson replaces longtime president Amy Gilliland, who was let go from the company earlier this month after almost a decade of leading the business unit.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-23T20:41:31+00:00",
+    "source": "Breaking Defense",
+    "title": "Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring",
+    "url": "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/08/220815_northstar_satellite_graphic-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Space Systems Command officials said the contracts are an initial step for the Commercial Augmentation Space Reserve (CASR) initiative, and don&#8217;t address the thornier issues of US rights to deny other customers service or reimbursement for satellites lost in a conflict. </p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-23T19:39:05+00:00",
+    "source": "Defense News",
+    "title": "US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says",
+    "url": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Ret. Army Gen. David Petraeus praised the Pentagon’s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-23T19:07:34+00:00",
+    "source": "Breaking Defense",
+    "title": "Kyiv eyes purchase of planned ICEYE, Nokia ‘sovereign’ communication sats",
+    "url": "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/08/240830_ukraine_drone_forest_GETTY-scaled-e1725026856723-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The letter of intent comes on the heels of the political dust up between US President Donald Trump and Elon Musk over a US move to throttle Ukraine&#8217;s Starshield access that has all but grounded the countries military drones in its war with Russia.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-10-23T18:28:09+00:00",
+    "source": "Long War Journal",
+    "title": "The Houthis’ Red Sea power play",
+    "url": "https://www.longwarjournal.org/archives/2026/10/the-houthis-red-sea-power-play.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>The Houthis are on the offensive in Yemen, threatening one of the world's most important maritime chokepoints and bringing the war back to Saudi Arabia's doorstep. Bill Roggio is joined by FDD research analyst and Long War Journal contributor Bridget Toomey to discuss the Iranian-backed group's renewed campaign to conquer Yemen, its advances along the Red Sea coast, and its siege of the strategic city of Taiz. </p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/10/the-houthis-red-sea-power-play.php\">The Houthis&#8217; Red Sea power play</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "battlefield",
+      "proxy"
+    ]
+  },
+  {
+    "timestamp": "2026-10-23T16:08:45+00:00",
+    "source": "Long War Journal",
+    "title": "Ukrainian intelligence details new low-cost Russian cruise missile",
+    "url": "https://www.longwarjournal.org/archives/2026/10/analysis-ukrainian-intelligence-details-new-low-cost-russian-cruise-missile.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>A new missile called the Filin adds to Russia’s growing arsenal of low-cost, long-range munitions, placing strain on Ukraine’s overstretched air defenses. Ukraine is expected to scale production of faster interceptor drones, but this addresses only part of the challenge of countering Russia’s evolving missile and drone capabilities.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/10/analysis-ukrainian-intelligence-details-new-low-cost-russian-cruise-missile.php\">Ukrainian intelligence details new low-cost Russian cruise missile</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "escalation",
+      "proxy"
+    ]
+  },
+  {
     "timestamp": "2026-10-23T15:48:02+00:00",
     "source": "Defense News",
     "title": "‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite",
@@ -186,6 +260,18 @@
     "source": "Defense News",
     "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
     "url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-10-22T19:27:22+00:00",
+    "source": "Defense News",
+    "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+    "url": "https://www.defensenews.com/land/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
     "category": "battlefield",
     "region": "Global",
     "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
