@@ -1,5 +1,101 @@
 [
   {
+    "timestamp": "2026-11-05T22:55:48+00:00",
+    "source": "Defense News",
+    "title": "Shield AI to acquire radar maker Echodyne to bust drones",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Shield AI's CEO said the purchase of Echodyne supports the company’s aim to branch into different areas of unmanned systems.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-11-05T21:55:18+00:00",
+    "source": "Breaking Defense",
+    "title": "Republicans have a ticking clock. What can they get done on defense?",
+    "url": "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/hegseth-speech-scaled-e1790798541860-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Reconciliation, defense appropriations and the NDAA will all fight for attention as Congress considers the impeachment of Defense Secretary Pete Hegseth.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-11-05T21:30:27+00:00",
+    "source": "Long War Journal",
+    "title": "Arab parties endorse Eisenkot for Israeli PM, IDF reports 52 ceasefire violations Oct. 16–Nov. 5",
+    "url": "https://www.longwarjournal.org/archives/2026/11/arab-parties-endorse-eisenkot-for-israeli-pm-idf-reports-52-ceasefire-violations-oct-16-nov-5.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>Record turnout among Arab voters in Israel’s October 27 parliamentary election nearly doubled the representation of Arab-led parties, potentially making them kingmakers in forming the next government. Meanwhile, the Israel Defense Forces reported 52 ceasefire violations by Hamas and other Palestinian terrorist groups between October 16 and November 5, as Israeli forces continued conducting strikes against militants and weapons facilities in Gaza.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/11/arab-parties-endorse-eisenkot-for-israeli-pm-idf-reports-52-ceasefire-violations-oct-16-nov-5.php\">Arab parties endorse Eisenkot for Israeli PM, IDF reports 52 ceasefire violations Oct. 16–Nov. 5</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "proxy"
+    ]
+  },
+  {
+    "timestamp": "2026-11-05T20:55:19+00:00",
+    "source": "Defense News",
+    "title": "Popular military air show permanently pulled from RAF Fairford after suspected terror threat",
+    "url": "https://www.defensenews.com/global/europe/2026/11/05/popular-military-air-show-permanently-pulled-from-raf-fairford-after-suspected-terror-threat/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Over a month after a suspected Iranian plot on RAF Fairford, organizers of the world's largest military air show announced its permanent departure to MOD Boscombe Down.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-11-05T20:28:53+00:00",
+    "source": "Defense News",
+    "title": "Vector introduces ready-to-go one-way attack drone",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "The company said the Warfighter’s Stack consists of the drone, an HV-ESAD to hold an explosive payload, and a remote control.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-11-05T20:27:52+00:00",
+    "source": "Long War Journal",
+    "title": "Syria detains Hezbollah cell accused of Homs plot",
+    "url": "https://www.longwarjournal.org/archives/2026/11/syria-detains-hezbollah-cell-accused-of-homs-plot.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>On November 3, Syrian security forces arrested members of an alleged Hezbollah-linked cell accused of plotting an attack on a refinery near Homs, the latest in a series of operations targeting Hezbollah networks and arms smuggling since the fall of the Assad regime in December 2024. The arrests come amid expanding Syrian-Lebanese talks on border security and Damascus's diplomatic outreach, including President Ahmad al Sharaa’s visit to Saudi Arabia on November 4.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/11/syria-detains-hezbollah-cell-accused-of-homs-plot.php\">Syria detains Hezbollah cell accused of Homs plot</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "proxy"
+    ]
+  },
+  {
+    "timestamp": "2026-11-05T20:22:59+00:00",
+    "source": "Breaking Defense",
+    "title": "The push to give dismounted forces direct access to LEO and MEO networks",
+    "url": "https://breakingdefense.com/2026/11/the-push-to-give-dismounted-forces-direct-access-to-leo-and-meo-networks/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/the-push-to-give-dismounted-forces-direct-access-to-leo-and-meo-networks/\"><img alt=\"how Tampa Microwave, a Thales company, is advancing tactical SATCOM to provide secure, reliable mobile connectivity for dismounted military forces.\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/ausa.2026._thales._copy_01_v3-frame-at-4m5s-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>[Sponsored] Accessibility in the field is critical to supporting troops without tethering them to vehicles or command posts.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-11-05T20:16:29+00:00",
+    "source": "Defense News",
+    "title": "How General Dynamics Is Modernizing Military Communications Security",
+    "url": "https://www.defensenews.com/video/2026/11/05/how-general-dynamics-is-modernizing-military-communications-security/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "General Dynamics Mission Systems discusses high-speed encryption and adaptable security technology designed to protect military networks as cyber threats evolve",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-11-05T18:55:54+00:00",
     "source": "Breaking Defense",
     "title": "The Pentagon wants a massive new military base. Where will it go?",
