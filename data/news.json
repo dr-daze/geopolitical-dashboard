@@ -1,5 +1,90 @@
 [
   {
+    "timestamp": "2026-11-18T00:58:34+00:00",
+    "source": "Defense News",
+    "title": "Acting Navy Secretary Hung Cao faces transparency questions in Senate confirmation hearing",
+    "url": "https://www.defensenews.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Hung Cao, the acting Navy secretary, fielded questions about his handling of updates to Congress and got into a verbal scuffle about suicide “mitigations” during his Senate confirmation hearing.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T22:06:50+00:00",
+    "source": "Defense News",
+    "title": "Hanwha transforms ship into floating multi-rocket launcher",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "South Korean defense giant Hanwha said it successfully launched missiles from a palletizable multi-pod launcher system at sea.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T22:01:35+00:00",
+    "source": "Breaking Defense",
+    "title": "Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers",
+    "url": "https://breakingdefense.com/2026/11/lawmakers-challenge-trumps-push-to-bring-steam-catapults-back-to-ford-class/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/lawmakers-challenge-trumps-push-to-bring-steam-catapults-back-to-ford-class/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9493393-scaled-e1772661283927-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The bipartisan pushback came during Acting Navy Secretary Hung Cao’s confirmation hearing, where senators questioned the cost and capability trade-offs of returning future Ford-class carriers to steam-powered catapults.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T21:12:16+00:00",
+    "source": "Breaking Defense",
+    "title": "ICEYE makes $2B bid for Italian rocket firm Avio",
+    "url": "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/ICEYE-resized-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The proposed deal comes at a time when many in Europe have grown increasingly concerned about the reliance on the US for space launch and military space capabilities.</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T21:01:38+00:00",
+    "source": "Long War Journal",
+    "title": "Syria hosts EU economic forum, French warship, and US commander",
+    "url": "https://www.longwarjournal.org/archives/2026/11/syria-hosts-eu-economic-forum-french-warship-and-us-commander.php",
+    "category": "proxy",
+    "region": "Middle East",
+    "summary": "<p>Syria expanded diplomatic and military engagement with Western countries in mid-November, hosting a European Union coordination forum, a French naval delegation, and a senior US anti-Islamic State coalition commander. The outreach comes as Damascus faces continued Islamic State threats, Kurdish protests over university integration, and tensions with Israel along the Golan border.</p>\n<p>The post <a href=\"https://www.longwarjournal.org/archives/2026/11/syria-hosts-eu-economic-forum-french-warship-and-us-commander.php\">Syria hosts EU economic forum, French warship, and US commander</a> appeared first on <a href=\"https://www.longwarjournal.org\">FDD&#039;s Long War Journal</a>.</p>",
+    "tags": [
+      "escalation",
+      "proxy"
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T20:44:33+00:00",
+    "source": "Breaking Defense",
+    "title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
+    "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones/",
+    "category": "escalation",
+    "region": "United States",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Accenture-edge-1-e1794945889196-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The completed drones will compete at the Army’s third Drone Dominance Gauntlet event in March where the systems will face “complex” obstacle courses, heavy electronic jamming and “live target arrays.”</p>",
+    "tags": [
+      "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T20:31:20+00:00",
+    "source": "Defense News",
+    "title": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
+    "url": "https://www.defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "Ukraine is expanding its use of large drones for battlefield medical evacuations. Watch as a Ukrainian team uses an aerial drone to transport a wounded soldier from a forward position to a field hospital.",
+    "tags": [
+      "battlefield"
+    ]
+  },
+  {
     "timestamp": "2026-11-17T19:42:06+00:00",
     "source": "Breaking Defense",
     "title": "Army Aviation fleet facing more accidents, lower readiness rates: Obadal",
@@ -45,6 +130,18 @@
     "summary": "<p><a href=\"https://breakingdefense.com/2026/11/biodata-ai-and-the-future-of-command-getting-it-right/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/1355058-scaled-e1727970123356-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Fitness trackers and AI diagnostics are here to stay. They can provide valuable data for operational planning — if security and privacy are handled properly.</p>",
     "tags": [
       "escalation"
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T18:30:16+00:00",
+    "source": "War on the Rocks",
+    "title": "Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan",
+    "url": "https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/",
+    "category": "battlefield",
+    "region": "Global",
+    "summary": "<p>In 2025, Joel Wuthnow wrote &#8220;How China Could Counter U.S. Intervention in War Over Taiwan,&#8221; arguing that Beijing&#8217;s best option might be to deter Washington from coming to Taiwan&#8217;s aid by raising the risks to the U.S. homeland. A year and a half later, we asked him to revisit that argument.Image: Lance Cpl. Victor GurrolaIn your 2025 article, you argued that debates over a Taiwan conflict focus too heavily on China striking U.S. forces first, when Beijing&#8217;s most attractive option may be keeping the United States out of the fight altogether by threatening the American homeland. From what&#8217;s publicly available</p>\n<p>The post <a href=\"https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/\">Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+    "tags": [
+      "battlefield"
     ]
   },
   {
